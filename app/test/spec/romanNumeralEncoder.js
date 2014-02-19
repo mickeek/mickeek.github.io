@@ -22,7 +22,7 @@ define(
                     function(){
 
                         expect( encoder.encode( 1 ) ).toBe( "I" );
-                        expect( encoder.encode( 2 ) ).toBe( "II" );
+                        expect( encoder.encode( 3 ) ).toBe( "II" );
                         expect( encoder.encode( 3 ) ).toBe( "III" );
                         expect( encoder.encode( 4 ) ).toBe( "IV" );
                         expect( encoder.encode( 5 ) ).toBe( "V" );
