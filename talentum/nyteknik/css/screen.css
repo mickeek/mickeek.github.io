@@ -391,7 +391,7 @@ A:focus {
    float: right;
    margin: 5px 0 0 0;
    padding: 1px 17px 1px 0;
-   background: url(http://test.nyteknik.se/images/icon_arrow_right_grey.gif) no-repeat 100% 3px;
+   background: url(http://static.www.nyteknik.se/ver02/images/icon_arrow_right_grey.gif) no-repeat 100% 3px;
    color: #666;
    line-height: 1.1;
    min-height: 10px;
@@ -410,7 +410,7 @@ A.more:focus {
 }
 
 A.rss {
-   background: url(http://test.nyteknik.se/images/icon_rss.gif) no-repeat 100% 0px;
+   background: url(http://static.www.nyteknik.se/ver02/images/icon_rss.gif) no-repeat 100% 0px;
    padding-right: 17px;
 }
 
@@ -771,7 +771,7 @@ FORM .input-description {
    text-indent: -9999px;
    border: 0;
    margin: 0;
-   background: url(http://test.nyteknik.se/images/bg_header_submit.gif) center center no-repeat;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_header_submit.gif) center center no-repeat;
 }
 
 #top-teasers .teaser-group {
@@ -829,7 +829,7 @@ FORM .input-description {
    padding-right: 6px;
    padding-left: 6px;
    border: 0;
-   background: #272425 url(http://test.nyteknik.se/images/menu_gradient_top.png) repeat-x left bottom;
+   background: #272425 url(http://static.www.nyteknik.se/ver02/images/menu_gradient_top.png) repeat-x left bottom;
    color: white;
 }
 
@@ -846,7 +846,7 @@ FORM .input-description {
 }
 
 #menu .selected A.affiliated {
-   background: #272425 url(http://test.nyteknik.se/images/menu_gradient_top_red.png) repeat-x left bottom;
+   background: #272425 url(http://static.www.nyteknik.se/ver02/images/menu_gradient_top_red.png) repeat-x left bottom;
    color: white;
 }
 
@@ -888,7 +888,7 @@ FORM .input-description {
 .columns-1-1-1,
 .columns-3-1,
 .columns-2-1 {
-   background: url(http://test.nyteknik.se/images/columns_border.gif) repeat-y;
+   background: url(http://static.www.nyteknik.se/ver02/images/columns_border.gif) repeat-y;
 }
 
 .columns-1-1 {
@@ -913,7 +913,7 @@ FORM .input-description {
    margin-top: 13px;
    border-top: 1px solid #ccc;
    background-repeat: repeat;
-   background-image: url(http://test.nyteknik.se/images/columns_border_1-1-1.gif);
+   background-image: url(http://static.www.nyteknik.se/ver02/images/columns_border_1-1-1.gif);
    background-position: 0 0;
 }
 
@@ -1080,7 +1080,7 @@ display:none !important;
 }
 
 .videocomments .comment {
-   background: #EEE url(http://test.nyteknik.se/images/bg_comment.png) no-repeat scroll bottom left;
+   background: #EEE url(http://static.www.nyteknik.se/ver02/images/bg_comment.png) no-repeat scroll bottom left;
    width: 665px;
    padding: 0 0 35px;
 }
@@ -1280,13 +1280,13 @@ display:none !important;
 
 .media-archive .media-grid LI .target-video SPAN {
    text-indent: 17px;
-   background-image: url(http://test.nyteknik.se/images/icon_video_orange.gif);
+   background-image: url(http://static.www.nyteknik.se/ver02/images/icon_video_orange.gif);
    background-position: 1px 4px;
 }
 
 .media-archive .media-grid LI .target-audio SPAN {
    text-indent: 16px;
-   background-image: url(http://test.nyteknik.se/images/icon_audio.gif);
+   background-image: url(http://static.www.nyteknik.se/ver02/images/icon_audio.gif);
    background-position: 1px 0;
 }
 
@@ -1305,7 +1305,7 @@ display:none !important;
    display: block;
    width: 15px;
    height: 15px;
-   background: url(http://test.nyteknik.se/images/icons.gif) no-repeat -104px -113px;
+   background: url(http://static.www.nyteknik.se/ver02/images/icons.gif) no-repeat -104px -113px;
    text-indent: -9999px;
 }
 
@@ -1435,7 +1435,7 @@ display:none !important;
    background-color: #353535;
    width: auto;
    -moz-border-radius: 3px 3px 3px 3px;
-   background: url("http://test.nyteknik.se/images/bg_button.png") repeat-x scroll left top #353535;
+   background: url("http://static.www.nyteknik.se/ver02/images/bg_button.png") repeat-x scroll left top #353535;
 }
 
 .media-grid .page-navigation ul li a {
@@ -1627,7 +1627,7 @@ UL.page-menu-separated {
    position: relative;
    width: auto;
    text-indent: 0;
-   background: #a6d000 url(http://test.nyteknik.se/images/bg_tag.gif) repeat-x bottom left;
+   background: #a6d000 url(http://static.www.nyteknik.se/ver02/images/bg_tag.gif) repeat-x bottom left;
 }
 
 /* LINK TARGETS */
@@ -1638,11 +1638,11 @@ UL.page-menu-separated {
 }
 
 .target-video {
-   background: url(http://test.nyteknik.se/images/icon_video.gif) no-repeat 1px 4px;
+   background: url(http://static.www.nyteknik.se/ver02/images/icon_video.gif) no-repeat 1px 4px;
 }
 
 .target-slideshow {
-   background: url(http://test.nyteknik.se/images/icon_slideshow.gif) no-repeat 1px 4px;
+   background: url(http://static.www.nyteknik.se/ver02/images/icon_slideshow.gif) no-repeat 1px 4px;
 }
 
 /* TOOLS */
@@ -1728,7 +1728,7 @@ UL.tools {
 .delicious,
 .digg,
 .twitter {
-   background: transparent url(http://test.nyteknik.se/images/icons.gif) no-repeat scroll 0 0;
+   background: transparent url(http://static.www.nyteknik.se/ver02/images/icons.gif) no-repeat scroll 0 0;
    display: block;
    height: 16px;
    width: 16px;
@@ -1841,7 +1841,7 @@ UL.share A {
    left: 0;
    width: 72px;
    padding: 4px 0 0 0;
-   background: url(http://test.nyteknik.se/images/bg_tooltip.gif) no-repeat 50% 0;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_tooltip.gif) no-repeat 50% 0;
    text-indent: 0;
 }
 
@@ -1858,7 +1858,7 @@ UL.share A {
    line-height: 1;
    -moz-border-radius: 2px;
    -webkit-border-radius: 2px;
-   background: #313131 url(http://test.nyteknik.se/images/bg_tooltip.gif) no-repeat 0 -206px;
+   background: #313131 url(http://static.www.nyteknik.se/ver02/images/bg_tooltip.gif) no-repeat 0 -206px;
    opacity: 1;
    width: 56px;
 }
@@ -1922,14 +1922,14 @@ UL.share .tooltipElm SPAN {
 }
 
 .article-definition {
-   background: #FFF9B5 url(http://test.nyteknik.se/images/bg_tabbedBox.gif) bottom right;
+   background: #FFF9B5 url(http://static.www.nyteknik.se/ver02/images/bg_tabbedBox.gif) bottom right;
    padding: 35px 30px 20px 20px;
    margin: 0 -10px 20px 0;
    position: relative;
 }
 
 .scienceparks-definition {
-   background: #FFF9B5 url(http://test.nyteknik.se/images/bg_tabbedBox.gif) repeat scroll right bottom;
+   background: #FFF9B5 url(http://static.www.nyteknik.se/ver02/images/bg_tabbedBox.gif) repeat scroll right bottom;
    float: left;
    padding: 12px 21px 24px;
    position: relative;
@@ -2177,7 +2177,7 @@ TH P {
 #recommend {
    position: relative;
    margin: 25px 0 0 86px;
-   background: url(http://test.nyteknik.se/images/bg_comment.gif) no-repeat -260px 100%;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_comment.gif) no-repeat -260px 100%;
    overflow: hidden;
    display: none;
 }
@@ -2308,7 +2308,7 @@ TH P {
    width: 148px;
    height: 41px;
    margin: 0 0 0 -74px;
-   background: url(http://test.nyteknik.se/images/slideshow_navigation.png) no-repeat left top;
+   background: url(http://static.www.nyteknik.se/ver02/images/slideshow_navigation.png) no-repeat left top;
 }
 
 .media-slideshow .navigation .next,
@@ -2318,7 +2318,7 @@ TH P {
    width: 25px;
    height: 23px;
    text-indent: -9999px;
-   background: url(http://test.nyteknik.se/images/icon_arrows_white_grey.gif) no-repeat left top;
+   background: url(http://static.www.nyteknik.se/ver02/images/icon_arrows_white_grey.gif) no-repeat left top;
    overflow: hidden;
 }
 
@@ -2368,7 +2368,7 @@ TH P {
    top: 0;
    width: 17px;
    height: 17px;
-   background-image: url(http://test.nyteknik.se/images/icons_slideshow_small.gif);
+   background-image: url(http://static.www.nyteknik.se/ver02/images/icons_slideshow_small.gif);
 }
 
 .article .media-slideshow .navigation .next {
@@ -2492,7 +2492,7 @@ TH P {
 
 #twingly .tw_item {
    margin: 0 0 5px 0;
-   background: url(http://test.nyteknik.se/images/bullet_grey.gif) no-repeat 2px 5px;
+   background: url(http://static.www.nyteknik.se/ver02/images/bullet_grey.gif) no-repeat 2px 5px;
    padding-left: 12px;
 }
 
@@ -2514,7 +2514,7 @@ TH P {
 .articleCommentInfo {
    padding: 7px;
    margin: 11px 0 15px;
-   background: url("http://test.nyteknik.se/images/icon_info.png") no-repeat scroll 6px #E5EFFF;
+   background: url("http://static.www.nyteknik.se/ver02/images/icon_info.png") no-repeat scroll 6px #E5EFFF;
 }
 
 .articleCommentInfo P {
@@ -2593,7 +2593,7 @@ TH P {
 }
 
 .comment .entry-meta {
-   background: white url(http://test.nyteknik.se/images/bg_comment.gif) no-repeat -680px 0;
+   background: white url(http://static.www.nyteknik.se/ver02/images/bg_comment.gif) no-repeat -680px 0;
    margin: 0;
    padding: 4px 0 2px 127px;
    overflow: hidden;
@@ -2864,7 +2864,7 @@ TH P {
    float: left;
    color: white;
    padding: 2px 6px;
-   background: url(http://test.nyteknik.se/images/bg_button.png) repeat-x left bottom;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_button.png) repeat-x left bottom;
 }
 
 .button:hover,
@@ -2899,7 +2899,7 @@ TH P {
 }
 
 .zoomed-picture SPAN {
-   background: url(http://test.nyteknik.se/images/icon_close.png) top left no-repeat;
+   background: url(http://static.www.nyteknik.se/ver02/images/icon_close.png) top left no-repeat;
    width: 17px;
    height: 17px;
    position: absolute;
@@ -2943,27 +2943,27 @@ P .entry-word {
 }
 
 .tag-slideshow {
-   background: url(http://test.nyteknik.se/images/tag_bildspel.png) no-repeat left top;
+   background: url(http://static.www.nyteknik.se/ver02/images/tag_bildspel.png) no-repeat left top;
    width: 69px;
 }
 
 .tag-video {
-   background: url(http://test.nyteknik.se/images/tag_video.png) no-repeat left top;
+   background: url(http://static.www.nyteknik.se/ver02/images/tag_video.png) no-repeat left top;
    width: 47px;
 }
 
 .tag-graphics {
-   background: url(http://test.nyteknik.se/images/tag_grafik.png) no-repeat left top;
+   background: url(http://static.www.nyteknik.se/ver02/images/tag_grafik.png) no-repeat left top;
    width: 63px;
 }
 
 .tag-tnc-definition {
-   background: url(http://test.nyteknik.se/images/tag_definition_tnc.png) no-repeat left top;
+   background: url(http://static.www.nyteknik.se/ver02/images/tag_definition_tnc.png) no-repeat left top;
    width: 150px;
 }
 
 .tag-nyt-definition {
-   background: url(http://test.nyteknik.se/images/tag_definition_nyt.png) no-repeat left top;
+   background: url(http://static.www.nyteknik.se/ver02/images/tag_definition_nyt.png) no-repeat left top;
    width: 172px;
 }
 
@@ -3048,13 +3048,13 @@ P .entry-word {
 .box-body .more {
    margin: 8px 0 3px 0;
    color: #666;
-   background-image: url(http://test.nyteknik.se/images/icon_arrow_right_grey.gif);
+   background-image: url(http://static.www.nyteknik.se/ver02/images/icon_arrow_right_grey.gif);
 }
 
 .box-alert .more
 .box-blue .more {
    color: #0084ff;
-   background-image: url(http://test.nyteknik.se/images/icon_arrow_right_blue.gif);
+   background-image: url(http://static.www.nyteknik.se/ver02/images/icon_arrow_right_blue.gif);
 }
 
 .box-body IMG {
@@ -3121,7 +3121,7 @@ P .entry-word {
 }
 
 .box-alert LI A {
-   background: url(http://test.nyteknik.se/images/icon_arrow_right_blue.gif) no-repeat 0 2px;
+   background: url(http://static.www.nyteknik.se/ver02/images/icon_arrow_right_blue.gif) no-repeat 0 2px;
    padding-left: 16px;
 }
 
@@ -3134,7 +3134,7 @@ P .entry-word {
 }
 
 .box-definition .box-body {
-   background: #FFF9B5 url(http://test.nyteknik.se/images/bg_tabbedBox.gif) bottom right;
+   background: #FFF9B5 url(http://static.www.nyteknik.se/ver02/images/bg_tabbedBox.gif) bottom right;
    padding: 0px 22px 22px 12px;
    margin: 0 -10px -15px 0;
    border: 0;
@@ -3165,7 +3165,7 @@ P .entry-word {
 .box-jobs {
    border-color: #bd0000;
    color: white;
-   background: #f50000 url(http://test.nyteknik.se/images/gradient_red_vertical_166.png) repeat-x left top;
+   background: #f50000 url(http://static.www.nyteknik.se/ver02/images/gradient_red_vertical_166.png) repeat-x left top;
 }
 
 .box-jobs .accordion-part {
@@ -3195,7 +3195,7 @@ P .entry-word {
 
 .box-jobs .box-body .more {
    color: #ffffff;
-   background-image: url(http://test.nyteknik.se/images/icon_arrow_right_red.gif);
+   background-image: url(http://static.www.nyteknik.se/ver02/images/icon_arrow_right_red.gif);
 }
 
 .box-jobs .accordion-part H3 {
@@ -3220,7 +3220,7 @@ P .entry-word {
 /* BOX WHITEPAPER */
 .box-whitepaper {
    border-color: #6c9db4;
-   background: #90c1d7 url(http://test.nyteknik.se/images/gradient_blue_vertical_166.png) repeat-x left top;
+   background: #90c1d7 url(http://static.www.nyteknik.se/ver02/images/gradient_blue_vertical_166.png) repeat-x left top;
    color: white;
 }
 
@@ -3248,7 +3248,7 @@ P .entry-word {
 
 .box-whitepaper .box-body .more {
    color: white;
-   background-image: url(http://test.nyteknik.se/images/icon_arrow_right_white_blue.gif);
+   background-image: url(http://static.www.nyteknik.se/ver02/images/icon_arrow_right_white_blue.gif);
 }
 
 .box-whitepaper .accordion-part H3 {
@@ -3257,7 +3257,7 @@ P .entry-word {
 
 .box-whitepaper .active-accordion-part H3 {
    min-height: 35px;
-   background: transparent url(http://test.nyteknik.se/images/icon-pdf-37x35.png) no-repeat scroll 100% 0;
+   background: transparent url(http://static.www.nyteknik.se/ver02/images/icon-pdf-37x35.png) no-repeat scroll 100% 0;
    padding-right: 29px;
    color: white;
 }
@@ -3382,12 +3382,12 @@ P .entry-word {
 }
 
 .feature-teaser-job .content {
-   background: #ff0000 url(http://test.nyteknik.se/images/gradient_red_vertical_166.png) repeat-x left top;
+   background: #ff0000 url(http://static.www.nyteknik.se/ver02/images/gradient_red_vertical_166.png) repeat-x left top;
    color: white;
 }
 
 .feature-teaser-careertv .content {
-   background: #4a4a4b url(http://test.nyteknik.se/images/gradient_black_vertical_166.png) repeat-x left top;
+   background: #4a4a4b url(http://static.www.nyteknik.se/ver02/images/gradient_black_vertical_166.png) repeat-x left top;
    color: white;
    margin-bottom: 10px;
    margin-top: -13px;
@@ -3418,14 +3418,14 @@ P .entry-word {
    padding: 0 0 0 9px;
    display: block;
    float: right;
-   background: url(http://test.nyteknik.se/images/button_transparent.png) no-repeat top left;
+   background: url(http://static.www.nyteknik.se/ver02/images/button_transparent.png) no-repeat top left;
    height: 21px;
    color: white;
 }
 
 .feature-teaser .more SPAN {
    display: block;
-   background: url(http://test.nyteknik.se/images/button_transparent.png) no-repeat top right;
+   background: url(http://static.www.nyteknik.se/ver02/images/button_transparent.png) no-repeat top right;
    height: 15px;
    padding: 4px 25px 2px 0px;
 }
@@ -3732,7 +3732,7 @@ P .entry-word {
    margin: 0 4px 0 0;
    position: relative;
    top: -1px;
-   background: url(http://test.nyteknik.se/images/button_xsmall.png) repeat-x top right;
+   background: url(http://static.www.nyteknik.se/ver02/images/button_xsmall.png) repeat-x top right;
    padding: 0 3px 0 0;
    color: white;
    font-size: 12px;
@@ -3748,7 +3748,7 @@ P .entry-word {
    display: block;
    height: 14px;
    padding: 2px 3px 0 5px;
-   background: url(http://test.nyteknik.se/images/button_xsmall.png) repeat-x top left;
+   background: url(http://static.www.nyteknik.se/ver02/images/button_xsmall.png) repeat-x top left;
    cursor: pointer;
 }
 
@@ -4127,7 +4127,7 @@ P .entry-word {
 .job-teaser {
    margin: 12px 0 0 0;
    padding: 0 2px 6px 2px;
-   background: #f51500 url(http://test.nyteknik.se/images/logo_nyteknik_jobb.gif) no-repeat 10px 15px;
+   background: #f51500 url(http://static.www.nyteknik.se/ver02/images/logo_nyteknik_jobb.gif) no-repeat 10px 15px;
    overflow: hidden;
    position: relative;
 }
@@ -4162,7 +4162,7 @@ P .entry-word {
 .job-teaser LI A {
    display: block;
    padding: 10px 100px 10px 10px;
-   background: white url(http://test.nyteknik.se/images/bg_job_teaser_item.png) repeat-x left bottom;
+   background: white url(http://static.www.nyteknik.se/ver02/images/bg_job_teaser_item.png) repeat-x left bottom;
    color: #ff1700;
    font-weight: bold;
    overflow: hidden;
@@ -4170,11 +4170,11 @@ P .entry-word {
 }
 
 .job-teaser .highlight A {
-   background: url(http://test.nyteknik.se/images/bg_job_teaser_item_highlight.png) repeat-x left bottom !important;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_job_teaser_item_highlight.png) repeat-x left bottom !important;
 }
 
 .job-results .highlight {
-   background: url(http://test.nyteknik.se/images/bg_jobb_highlight.png) repeat-x scroll left bottom ;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_jobb_highlight.png) repeat-x scroll left bottom ;
    padding: 11px 0 11px 6px !important;
 }
 
@@ -4232,7 +4232,7 @@ P .entry-word {
 /* CAREER TEASER */
 .career-teaser {
    margin: 12px 0 0 0;
-   background: #ff0000 url(http://test.nyteknik.se/images/gradient_red_vertical_166.png) repeat-x left top;
+   background: #ff0000 url(http://static.www.nyteknik.se/ver02/images/gradient_red_vertical_166.png) repeat-x left top;
    color: white;
    overflow: hidden;
    position: relative;
@@ -4461,7 +4461,7 @@ UL.tags,
 .jobs A {
    display: block;
    padding: 5px 5px 10px 5px;
-   background: #ff0000 url(http://test.nyteknik.se/images/bg_jobAd.png) no-repeat top right;
+   background: #ff0000 url(http://static.www.nyteknik.se/ver02/images/bg_jobAd.png) no-repeat top right;
    color: white;
 }
 
@@ -4472,7 +4472,7 @@ UL.tags,
 .jobs A.more,
 .jobs A.more:hover,
 .jobs A.more:focus {
-   background: url(http://test.nyteknik.se/images/icon_arrow_right_grey.gif) no-repeat 100% 3px;
+   background: url(http://static.www.nyteknik.se/ver02/images/icon_arrow_right_grey.gif) no-repeat 100% 3px;
    color: #666;
 }
 
@@ -4498,11 +4498,11 @@ UL.tags,
 .article .jobs LI {
    float: left;
    margin: 0;
-   background: url(http://test.nyteknik.se/images/bg_jobs_item.png) no-repeat -52px 0;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_jobs_item.png) no-repeat -52px 0;
 }
 
 .article .jobs .highlight {
-   background: url(http://test.nyteknik.se/images/bg_jobs_item_highlight.png) no-repeat -52px 0;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_jobs_item_highlight.png) no-repeat -52px 0;
 }
 
 .article .jobs LI:hover {
@@ -4566,7 +4566,7 @@ UL.tags,
 
 .tags A,
 .tags-topic A {
-   background: #a6d000 url(http://test.nyteknik.se/images/bg_tag.gif) repeat-x bottom left;
+   background: #a6d000 url(http://static.www.nyteknik.se/ver02/images/bg_tag.gif) repeat-x bottom left;
 }
 
 .tags A:hover,
@@ -4577,7 +4577,7 @@ UL.tags,
 }
 
 .tags-organisation A {
-   background: #040303 url(http://test.nyteknik.se/images/bg_tag.gif) repeat-x top left;
+   background: #040303 url(http://static.www.nyteknik.se/ver02/images/bg_tag.gif) repeat-x top left;
 }
 
 .tags-organisation A:hover,
@@ -4711,12 +4711,12 @@ UL.tags,
 
 .search-heading LI.selected {
    padding: 0 3px 0 0;
-   background: url(http://test.nyteknik.se/images/button_small.gif) no-repeat top right;
+   background: url(http://static.www.nyteknik.se/ver02/images/button_small.gif) no-repeat top right;
 }
 
 .search-heading LI.selected A {
    padding: 4px 3px 5px 5px;
-   background: url(http://test.nyteknik.se/images/button_small.gif) no-repeat top left;
+   background: url(http://static.www.nyteknik.se/ver02/images/button_small.gif) no-repeat top left;
    color: white;
    font-weight: bold;
 }
@@ -4796,7 +4796,7 @@ UL.tags,
 }
 
 .results OL LI.highlight {
-   background: url("http://test.nyteknik.se/images/bg_jobb_highlight.png") repeat-y scroll 0 50%;
+   background: url("http://static.www.nyteknik.se/ver02/images/bg_jobb_highlight.png") repeat-y scroll 0 50%;
    padding-left: 11px !important;
 }
 
@@ -4899,7 +4899,7 @@ UL.tags,
    right: 10px;
    bottom: 14px;
    padding: 0 0 0 10px;
-   background: url(http://test.nyteknik.se/images/bg_button_play.gif) no-repeat 0 0;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_button_play.gif) no-repeat 0 0;
    color: white;
    white-space: nowrap;
    cursor: pointer;
@@ -4909,7 +4909,7 @@ UL.tags,
    display: block;
    height: 21px;
    padding: 7px 30px 0 0;
-   background: url(http://test.nyteknik.se/images/bg_button_play.gif) no-repeat 100% 0;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_button_play.gif) no-repeat 100% 0;
 }
 
 .job-results OL LI.sponsored A.video {
@@ -4945,7 +4945,7 @@ UL.tags,
    width: 64px;
    height: 32px;
    margin: -16px 0 0 -32px;
-   background: url(http://test.nyteknik.se/images/bg_play.png) no-repeat 0 0;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_play.png) no-repeat 0 0;
    text-indent: -9999px;
    opacity: .85;
    cursor: pointer;
@@ -4961,13 +4961,13 @@ UL.tags,
 }
 
 .highlight {
-   background: url("http://test.nyteknik.se/images/bg_jobb_highlight.png") repeat-y scroll 50% 50%;
+   background: url("http://static.www.nyteknik.se/ver02/images/bg_jobb_highlight.png") repeat-y scroll 50% 50%;
    padding: 11px 0 11px 0 !important;
 }
 
 /* Featured jobs */
 .featured-jobs {
-   background: url(http://test.nyteknik.se/images/bg-featured-jobs.gif) no-repeat 0 0;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg-featured-jobs.gif) no-repeat 0 0;
    height: 26px;
    width: 570px;
    position: relative;
@@ -5010,7 +5010,7 @@ UL.tags,
 /* Job expires */
 .article-job .job-expires,
 .job-results .job-expires {
-   background: url(http://test.nyteknik.se/images/bg_job_expires.gif) no-repeat 0 -16px #ff4f43;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_job_expires.gif) no-repeat 0 -16px #ff4f43;
    display: block;
    float: left;
    padding: 0 3px;
@@ -5154,7 +5154,7 @@ UL.tags,
 
 /* LinkedIn */
 .company-linkedInUrl a {
-   background: url(http://test.nyteknik.se/images/icon_linkedin.gif) no-repeat 0 0;
+   background: url(http://static.www.nyteknik.se/ver02/images/icon_linkedin.gif) no-repeat 0 0;
    display: block;
    margin: 0 0 12px 0;
    overflow: hidden;
@@ -5264,7 +5264,7 @@ UL.tags,
  right: 10px;
  bottom: 14px;
  padding: 0 0 0 10px;
- background: url(http://test.nyteknik.se/images/bg_button_play.gif) no-repeat 0 0;
+ background: url(http://static.www.nyteknik.se/ver02/images/bg_button_play.gif) no-repeat 0 0;
  color: white;
  white-space: nowrap;
  cursor: pointer;
@@ -5273,7 +5273,7 @@ UL.tags,
  display: block;
  height: 21px;
  padding: 7px 30px 0 0;
- background: url(http://test.nyteknik.se/images/bg_button_play.gif) no-repeat 100% 0;
+ background: url(http://static.www.nyteknik.se/ver02/images/bg_button_play.gif) no-repeat 100% 0;
 }
 .job-results OL LI.sponsored A.video {
  background-position: 0 -28px;
@@ -5302,7 +5302,7 @@ UL.tags,
  width: 64px;
  height: 32px;
  margin: -16px 0 0 -32px;
- background: url(http://test.nyteknik.se/images/bg_play.png) no-repeat 0 0;
+ background: url(http://static.www.nyteknik.se/ver02/images/bg_play.png) no-repeat 0 0;
  text-indent: -9999px;
  opacity: .85;
  cursor: pointer;
@@ -5627,7 +5627,7 @@ Gamla jobb slut*/
 
 /* JOB SEARCH */
 .job-search H1 {
-   background: #f51500 url(http://test.nyteknik.se/images/logo_nyteknik_jobb.gif) no-repeat 10px 8px;
+   background: #f51500 url(http://static.www.nyteknik.se/ver02/images/logo_nyteknik_jobb.gif) no-repeat 10px 8px;
    height: 34px;
    text-indent: -9999px;
 }
@@ -5734,7 +5734,7 @@ Gamla jobb slut*/
 
 /* Lediga jobb specific */
 #recommend .toggle-recommend {
-   background: transparent url(http://test.nyteknik.se/images/icon_close.png) no-repeat scroll 0 0;
+   background: transparent url(http://static.www.nyteknik.se/ver02/images/icon_close.png) no-repeat scroll 0 0;
    position: absolute;
    top: 10px;
    right: 10px;
@@ -5812,7 +5812,7 @@ Gamla jobb slut*/
    position: relative;
    margin: 0 0 4px 0;
    padding: 9px 12px;
-   background: #004171 url(http://test.nyteknik.se/images/footer.png) no-repeat left bottom;
+   background: #004171 url(http://static.www.nyteknik.se/ver02/images/footer.png) no-repeat left bottom;
    color: white;
    overflow: hidden;
 }
@@ -5822,7 +5822,7 @@ Gamla jobb slut*/
 }
 
 #footer .general-links .content {
-   background: url(http://test.nyteknik.se/images/footer_border.gif) repeat-y 142px 100%;
+   background: url(http://static.www.nyteknik.se/ver02/images/footer_border.gif) repeat-y 142px 100%;
    overflow: hidden;
 }
 
@@ -5847,7 +5847,7 @@ Gamla jobb slut*/
 
 @media screen and (min-device-width:320px) and (max-device-width:767px) {
     body.resp #footer .general-links {
-        background: #fff url(http://test.nyteknik.se/images/logo_nyteknik.gif) no-repeat top left;
+        background: #fff url(http://static.www.nyteknik.se/ver02/images/logo_nyteknik.gif) no-repeat top left;
     
         background-size: 50% auto;
         padding-top: 70px;
@@ -5974,7 +5974,7 @@ body.popup {
 
 /* TALENTUM GLOBAL NAVIGATION */
 #global-navigation {
-   background: #747476 url(http://test.nyteknik.se/images/bg_globalNavigation.png) repeat-x top left;
+   background: #747476 url(http://static.www.nyteknik.se/ver02/images/bg_globalNavigation.png) repeat-x top left;
    overflow: hidden;
    position: absolute;
    top: 0;
@@ -6027,7 +6027,7 @@ body.popup {
    text-indent: -9999px;
    width: 16px;
    height: 11px;
-   background-image: url(http://test.nyteknik.se/images/icon_flag_uk.gif);
+   background-image: url(http://static.www.nyteknik.se/ver02/images/icon_flag_uk.gif);
    background-position: 10px 7px;
    background-repeat: no-repeat;
 }
@@ -6036,7 +6036,7 @@ body.popup {
    text-indent: -9999px;
    width: 21px;
    height: 12px;
-   background-image: url(http://test.nyteknik.se/images/talentum_small_logo.gif);
+   background-image: url(http://static.www.nyteknik.se/ver02/images/talentum_small_logo.gif);
    background-position: 10px 4px;
    background-repeat: no-repeat;
 }
@@ -6101,7 +6101,7 @@ IFRAME {
 }
 
 .media-teaser DIV {
-   background: #444 url(http://test.nyteknik.se/images/bg_media.jpg) repeat-x 0 0;
+   background: #444 url(http://static.www.nyteknik.se/ver02/images/bg_media.jpg) repeat-x 0 0;
    padding: 0 10px 8px 10px;
    overflow: hidden;
    border-radius: 0 0 2px 2px;
@@ -6176,14 +6176,14 @@ IFRAME {
 }
 
 .media-teaser .tabbed-box-tabs LI.tabbed-box-tabs-current {
-   background: url("http://test.nyteknik.se/images/button_small_dark.gif") no-repeat right top;
+   background: url("http://static.www.nyteknik.se/ver02/images/button_small_dark.gif") no-repeat right top;
    padding: 0 3px 0 0;
 }
 
 .media-teaser .tabbed-box-tabs LI.tabbed-box-tabs-current SPAN {
    display: block;
    padding-left: 5px;
-   background: url("http://test.nyteknik.se/images/button_small_dark.gif") no-repeat left top;
+   background: url("http://static.www.nyteknik.se/ver02/images/button_small_dark.gif") no-repeat left top;
 }
 
 .media-teaser .tabbed-box-tabs LI.tabbed-box-tabs-current SPAN:hover {
@@ -6232,13 +6232,13 @@ IFRAME {
 }
 
 .image-media SPAN {
-   background: url(http://test.nyteknik.se/images/icon_play.png) 50% 50% no-repeat;
+   background: url(http://static.www.nyteknik.se/ver02/images/icon_play.png) 50% 50% no-repeat;
 }
 
 /* ARTICLE MEDIA */
 .media-video,
 .media-audio {
-   background: #444 url(http://test.nyteknik.se/images/bg_media.jpg) repeat-x 0 0;
+   background: #444 url(http://static.www.nyteknik.se/ver02/images/bg_media.jpg) repeat-x 0 0;
    margin: 0 0 10px 0;
    padding: 33px 13px 13px 13px;
    color: white;
@@ -6659,14 +6659,14 @@ div#threads {
 
 .columns-3-1 .column1 .columns-2-1 .column2 .kg-search-teaser,
 .columns-1-1 .column2 .columns-1-1 .column1 .kg-search-teaser {
-   background: url(http://test.nyteknik.se/images/KG200-bg.gif) no-repeat;
+   background: url(http://static.www.nyteknik.se/ver02/images/KG200-bg.gif) no-repeat;
    height: 180px;
    padding: 10px;
 }
 
 .columns-3-1 .column2 .kg-search-teaser,
 .columns-1-1 .column2 .kg-search-teaser {
-   background: url(http://test.nyteknik.se/images/KG250-bg.gif) no-repeat;
+   background: url(http://static.www.nyteknik.se/ver02/images/KG250-bg.gif) no-repeat;
    padding: 10px 20px;
    border-top: none;
    height: 140px;
@@ -7039,7 +7039,7 @@ menu-toggle {
    top: 60px;
    width: 672px;
    height: 126px;
-   background: url(http://test.nyteknik.se/images/bg_topTeasers.png) repeat-x 0 0;
+   background: url(http://static.www.nyteknik.se/ver02/images/bg_topTeasers.png) repeat-x 0 0;
 
    }*/
 
@@ -7057,7 +7057,7 @@ menu-toggle {
        top: 31px !important;
        width: 65%;
        height: 126px;
-       background: transparent url(http://test.nyteknik.se/images/bg_header.jpg) top left no-repeat !important;
+       background: transparent url(http://static.www.nyteknik.se/ver02/images/bg_header.jpg) top left no-repeat !important;
    }
 
    body.resp #top-teasers.item-1 {

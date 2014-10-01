@@ -1,26 +1,26 @@
 [
 	{
 		"path": "affarsvarlden/css/screen.css",
-		"absPath": "http://test.affarsvarlden.se"
+		"absPath": "http://static.www.affarsvarlden.se/ver02"
 	},
 	{
 		"path": "affarsvarlden/css/mediaqueries.css",
-		"absPath": "http://test.affarsvarlden.se"
+		"absPath": "http://static.www.affarsvarlden.se/ver02"
 	},
 	{
 		"path": "dagensmedia/css/screen.css",
-		"absPath": "http://test.dagensmedia.se"
+		"absPath": "http://static.www.dagensmedia.se/ver02"
 	},
 	{
 		"path": "dagensmedia/css/mediaqueries.css",
-		"absPath": "http://test.dagensmedia.se"
+		"absPath": "http://static.www.dagensmedia.se/ver02"
 	},
 	{
 		"path": "nyteknik/css/screen.css",
-		"absPath": "http://test.nyteknik.se"
+		"absPath": "http://static.www.nyteknik.se/ver02"
 	},
 	{
 		"path": "nyteknik/css/mediaqueries.css",
-		"absPath": "http://test.nyteknik.se"
+		"absPath": "http://static.www.nyteknik.se/ver02"
 	}
 ]

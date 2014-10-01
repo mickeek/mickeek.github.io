@@ -151,7 +151,7 @@ INPUT, TEXTAREA, SELECT {
 
 INPUT.submit {
     width: auto !important;
-    background: #353535 url(http://test.dagensmedia.se/images/bg_button.png) repeat-x top left;
+    background: #353535 url(http://static.www.dagensmedia.se/ver02/images/bg_button.png) repeat-x top left;
     border: 0;
     color: white;
     padding: 3px;
@@ -346,7 +346,7 @@ A.more:hover {
 }
 
 A.rss {
-    background: url(http://test.dagensmedia.se/images/icon_rss.gif) no-repeat 100% 0px;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icon_rss.gif) no-repeat 100% 0px;
     padding-right: 17px;
 }
 
@@ -517,7 +517,7 @@ TABLE {
     text-align: center;
     font-size: 20px;
     padding: 80px 0;
-    background: url(http://test.dagensmedia.se/images/loader.gif) no-repeat 50% 40px;
+    background: url(http://static.www.dagensmedia.se/ver02/images/loader.gif) no-repeat 50% 40px;
 }
 
 /* LOGIN FORM, FORM ARTICLE */
@@ -597,7 +597,7 @@ TABLE {
 }
 
 .form-box-login .form-box-information .more {
-    background: transparent url(http://test.dagensmedia.se/images/icons.gif) no-repeat scroll 0 3px;
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/icons.gif) no-repeat scroll 0 3px;
     color: #0084FF;
     float: none;
     font-weight: bold;
@@ -631,7 +631,7 @@ TABLE {
     padding: 0 20px 0 20px;
     height: 27px;
     width: 960px;
-    background: #333 url('http://test.dagensmedia.se/images/bg_navbar_top.png') repeat-x 0 0;
+    background: #333 url('http://static.www.dagensmedia.se/ver02/images/bg_navbar_top.png') repeat-x 0 0;
 }
 
 #navbar-top .content {
@@ -673,7 +673,7 @@ TABLE {
 #header {
     border-top: 1px solid #ccc;
     padding: 0;
-    background: transparent url('http://test.dagensmedia.se/images/bg_topTeasers.gif') 100px 10px
+    background: transparent url('http://static.www.dagensmedia.se/ver02/images/bg_topTeasers.gif') 100px 10px
     no-repeat;
 }
 
@@ -707,7 +707,7 @@ TABLE {
     font-weight: bold;
     line-height: 1.1;
     color: #333;
-    background: url(http://test.dagensmedia.se/images/q.gif) 0px 1px no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/q.gif) 0px 1px no-repeat;
     text-indent: 22px;
     margin: 0 0 1px 0;
     overflow: hidden;
@@ -868,7 +868,7 @@ div.education #submenu A {
 #menu {
     float: left;
     width: 100%;
-    background: #555555 url(http://test.dagensmedia.se/images/bg_menuTop.png) repeat-x left bottom;
+    background: #555555 url(http://static.www.dagensmedia.se/ver02/images/bg_menuTop.png) repeat-x left bottom;
     -moz-border-radius: 2px 2px 0 0;
 }
 
@@ -881,13 +881,13 @@ div.education #submenu A {
     margin-right: 0;
     margin-top: -3px;
     padding: 0 0 0 5px;
-    background: transparent url(http://test.dagensmedia.se/images/dropshadow_left.png) no-repeat
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/dropshadow_left.png) no-repeat
     left top;
 }
 
 #menu .selected A {
     padding: 0 5px 0 0;
-    background: transparent url(http://test.dagensmedia.se/images/dropshadow_right.png) no-repeat
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/dropshadow_right.png) no-repeat
     right top;
 }
 
@@ -930,7 +930,7 @@ div.education #submenu A, #submenu A {
 #submenu li#partnerMenu a {
     color: #cc0000;
     font-weight: bold;
-    background: url(http://test.dagensmedia.se/images/icon_submenu.gif) no-repeat 85px 9px;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icon_submenu.gif) no-repeat 85px 9px;
     width: 120px;
 }
 
@@ -951,7 +951,7 @@ div.education #submenu A, #submenu A {
 /*
 #submenu li.has-submenu A,
 #submenu li.has-submenu li.has-submenu A {
-  background-image: url(http://test.dagensmedia.se/images/icon_submenu.png);
+  background-image: url(http://static.www.dagensmedia.se/ver02/images/icon_submenu.png);
   background-repeat: no-repeat;
   background-position: 100% 9px;
 }*/
@@ -1034,7 +1034,7 @@ div.education #submenu A, #submenu A {
 }
 #submenu LI.has-submenu A,
 #submenu LI.has-submenu LI.has-submenu A {
-  background-image: url(http://test.dagensmedia.se/images/icon_submenu.png);
+  background-image: url(http://static.www.dagensmedia.se/ver02/images/icon_submenu.png);
   background-repeat: no-repeat;
   background-position: 100% 9px;
 }
@@ -1047,7 +1047,7 @@ div.education #submenu A, #submenu A {
   position: absolute;
   left: 0;
   top: 23px;
-  background: url(http://test.dagensmedia.se/images/bg_menuTop_transparent.png) repeat-y -5px 0;
+  background: url(http://static.www.dagensmedia.se/ver02/images/bg_menuTop_transparent.png) repeat-y -5px 0;
   padding: 0 5px 5px 0;
 }
 #submenu LI LI {
@@ -1101,7 +1101,7 @@ div.education #submenu A, #submenu A {
 .columns-1-1 .column2 .columns-2-1, .columns-1-1-1, .columns-3-1,
 .columns-2-1
 {
-    background: url(http://test.dagensmedia.se/images/columns_border.gif) repeat-y;
+    background: url(http://static.www.dagensmedia.se/ver02/images/columns_border.gif) repeat-y;
 }
 
 .columns-1-1 {
@@ -1137,7 +1137,7 @@ div.education #submenu A, #submenu A {
 }
 
 .columns-3-1 .column1 .columns-2-1 .column1 .columns-1-1-1 {
-    background-image: url(http://test.dagensmedia.se/images/columns_border_1-1-1.gif);
+    background-image: url(http://static.www.dagensmedia.se/ver02/images/columns_border_1-1-1.gif);
     background-position: 152px 0;
 }
 
@@ -1245,12 +1245,12 @@ UL.page-menu {
 }
 
 .page-menu LI.selected {
-    background: url(http://test.dagensmedia.se/images/button_small.gif) no-repeat top right;
+    background: url(http://static.www.dagensmedia.se/ver02/images/button_small.gif) no-repeat top right;
     padding: 0 3px 0 0;
 }
 
 .page-menu LI.selected A {
-    background: url(http://test.dagensmedia.se/images/button_small.gif) no-repeat top left;
+    background: url(http://static.www.dagensmedia.se/ver02/images/button_small.gif) no-repeat top left;
     color: white;
     padding-left: 5px;
 }
@@ -1389,7 +1389,7 @@ UL.tools {
 .article .additional-content .links LI {
     list-style-type: none;
     padding-left: 13px;
-    background: url(http://test.dagensmedia.se/images/bullet.gif) 0 3px no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bullet.gif) 0 3px no-repeat;
 }
 
 .article .additional-content UL.tools, .article .additional-content UL.share
@@ -1412,7 +1412,7 @@ UL.tools {
 .article .additional-content UL.tools .toggle-text-size, .facebook,
 .delicious, .digg, .twitter
 {
-    background: transparent url(http://test.dagensmedia.se/images/icons.gif) no-repeat scroll 0 0;
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/icons.gif) no-repeat scroll 0 0;
     display: block;
     height: 16px;
     width: 16px;
@@ -1465,7 +1465,7 @@ UL.share A {
 }
 
 .article .additional-content .dm-plus H2 {
-    background: transparent url(http://test.dagensmedia.se/images/dm-plus-logo-small.gif) no-repeat
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/dm-plus-logo-small.gif) no-repeat
     top left;
     text-indent: -9999px;
 }
@@ -1628,7 +1628,7 @@ TD P, TH P {
 #recommend FORM {
     color: white;
     padding: 10px;
-    background: #313131 url(http://test.dagensmedia.se/images/bg_popup_recommend.jpg) repeat-x 0 0;
+    background: #313131 url(http://static.www.dagensmedia.se/ver02/images/bg_popup_recommend.jpg) repeat-x 0 0;
     font-size: 12px;
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
@@ -1681,7 +1681,7 @@ TD P, TH P {
 }
 
 #recommend .close, #recommend .toggle-recommend {
-    background: transparent url(http://test.dagensmedia.se/images/icon_close.png) no-repeat scroll 0
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/icon_close.png) no-repeat scroll 0
     0;
     position: absolute;
     top: 5px;
@@ -1765,7 +1765,7 @@ TD P, TH P {
     width: 148px;
     height: 41px;
     margin: 0 0 0 -74px;
-    background: url(http://test.dagensmedia.se/images/slideshow_navigation.png) no-repeat left top;
+    background: url(http://static.www.dagensmedia.se/ver02/images/slideshow_navigation.png) no-repeat left top;
 }
 
 .media-slideshow .navigation .next, .media-slideshow .navigation .previous
@@ -1779,12 +1779,12 @@ TD P, TH P {
 }
 
 .media-slideshow .navigation .next {
-    background: url(http://test.dagensmedia.se/images/icon_arrow_right.png) no-repeat left top;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icon_arrow_right.png) no-repeat left top;
     right: 10px;
 }
 
 .media-slideshow .navigation .previous {
-    background: url(http://test.dagensmedia.se/images/icon_arrow_left.png) no-repeat left top;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icon_arrow_left.png) no-repeat left top;
     left: 10px;
 }
 
@@ -1829,7 +1829,7 @@ TD P, TH P {
     top: 0;
     width: 17px;
     height: 17px;
-    background-image: url(http://test.dagensmedia.se/images/icons_slideshow_small.gif);
+    background-image: url(http://static.www.dagensmedia.se/ver02/images/icons_slideshow_small.gif);
 }
 
 .article .media-slideshow .navigation .next {
@@ -1854,7 +1854,7 @@ TD P, TH P {
 }
 
 .media-video, .media-audio {
-    background: #444 url(http://test.dagensmedia.se/images/bg_media.jpg) repeat-x 0 0;
+    background: #444 url(http://static.www.dagensmedia.se/ver02/images/bg_media.jpg) repeat-x 0 0;
     margin: 0 0 10px 0;
     padding: 33px 13px 13px 13px;
     color: white;
@@ -2103,7 +2103,7 @@ display:none !important;
 }
 
 .videocomments .comment {
-    background: #EEE url(http://test.dagensmedia.se/images/bg_comment.png) no-repeat scroll bottom
+    background: #EEE url(http://static.www.dagensmedia.se/ver02/images/bg_comment.png) no-repeat scroll bottom
     left;
     width: 468px;
 }
@@ -2152,7 +2152,7 @@ INPUT[type="checkbox"]
 .articleCommentInfo {
     padding: 7px;
     margin: 11px 0 15px;
-    background: url("http://test.dagensmedia.se/images/icon_info.png") no-repeat scroll 6px #E5EFFF;
+    background: url("http://static.www.dagensmedia.se/ver02/images/icon_info.png") no-repeat scroll 6px #E5EFFF;
 }
 
 .articleCommentInfo P {
@@ -2198,7 +2198,7 @@ INPUT[type="checkbox"]
 }
 
 #comments .no-of-comments {
-    background: #fd7f00 url(http://test.dagensmedia.se/images/dm_no_of_comments.gif) no-repeat
+    background: #fd7f00 url(http://static.www.dagensmedia.se/ver02/images/dm_no_of_comments.gif) no-repeat
     bottom left;
     color: #fff;
     font-weight: bold;
@@ -2223,7 +2223,7 @@ INPUT[type="checkbox"]
 }
 
 .comment {
-    background: #eee url(http://test.dagensmedia.se/images/bg_comment.gif) no-repeat scroll bottom
+    background: #eee url(http://static.www.dagensmedia.se/ver02/images/bg_comment.gif) no-repeat scroll bottom
     left;
     margin: 0 0 14px 0;
     padding: 0 0 51px;
@@ -2454,7 +2454,7 @@ INPUT[type="checkbox"]
 /* BUTTONS */
 .button {
     width: auto !important;
-    background: #353535 url(http://test.dagensmedia.se/images/bg_button.png) repeat-x top left;
+    background: #353535 url(http://static.www.dagensmedia.se/ver02/images/bg_button.png) repeat-x top left;
     border: 0;
     color: white;
     padding: 4px 5px;
@@ -2494,7 +2494,7 @@ INPUT[type="checkbox"]
 }
 
 .zoomed-picture SPAN {
-    background: url(http://test.dagensmedia.se/images/icon_close.png) top left no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icon_close.png) top left no-repeat;
     width: 17px;
     height: 17px;
     position: absolute;
@@ -2578,7 +2578,7 @@ INPUT[type="checkbox"]
     left: 0;
     width: 72px;
     padding: 4px 0 0 0;
-    background: url(http://test.dagensmedia.se/images/bg_tooltip.gif) no-repeat 50% 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_tooltip.gif) no-repeat 50% 0;
     text-indent: 0;
 }
 
@@ -2602,7 +2602,7 @@ INPUT[type="checkbox"]
     line-height: 1;
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
-    background: #313131 url(http://test.dagensmedia.se/images/bg_tooltip.gif) no-repeat 0 -206px;
+    background: #313131 url(http://static.www.dagensmedia.se/ver02/images/bg_tooltip.gif) no-repeat 0 -206px;
     opacity: 1;
     width: 56px;
 }
@@ -2647,11 +2647,11 @@ P .entry-word {
 }
 
 .tag-video {
-    background-image: url(http://test.dagensmedia.se/images/icon_video.gif);
+    background-image: url(http://static.www.dagensmedia.se/ver02/images/icon_video.gif);
 }
 
 .tag-audio {
-    background-image: url(http://test.dagensmedia.se/images/icon_audio.gif);
+    background-image: url(http://static.www.dagensmedia.se/ver02/images/icon_audio.gif);
 }
 
 /* TABBED BOX */
@@ -2683,12 +2683,12 @@ P .entry-word {
 }
 
 .tabbed-box .tabbed-box-tabs .tabbed-box-tabs-current {
-    background: url(http://test.dagensmedia.se/images/button_small.gif) no-repeat right top;
+    background: url(http://static.www.dagensmedia.se/ver02/images/button_small.gif) no-repeat right top;
     padding: 0 3px 0 0;
 }
 
 .tabbed-box .tabbed-box-tabs .tabbed-box-tabs-current SPAN {
-    background: url(http://test.dagensmedia.se/images/button_small.gif) no-repeat left top;
+    background: url(http://static.www.dagensmedia.se/ver02/images/button_small.gif) no-repeat left top;
     color: white;
     padding-left: 5px;
     display: block;
@@ -2730,7 +2730,7 @@ P .entry-word {
     top: 10px;
     right: 10px;
     cursor: pointer;
-    background: url(http://test.dagensmedia.se/images/icons.gif) 0 -112px no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icons.gif) 0 -112px no-repeat;
 }
 
 .previous-carousel-part {
@@ -2847,7 +2847,7 @@ body .box H2 { /* 'Body' for specificity */
 
 .box-body UL LI {
     list-style-type: none;
-    background: url(http://test.dagensmedia.se/images/bullet.gif) no-repeat 0 3px;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bullet.gif) no-repeat 0 3px;
     padding-left: 15px;
 }
 
@@ -2979,7 +2979,7 @@ body .box H2 { /* 'Body' for specificity */
 
 .box-jobs H2 {
     text-indent: -999px;
-    background-image: url(http://test.dagensmedia.se/images/logo_dmjobb.gif);
+    background-image: url(http://static.www.dagensmedia.se/ver02/images/logo_dmjobb.gif);
     background-repeat: no-repeat;
     background-position: 10px 10px;
     height: 46px;
@@ -3002,7 +3002,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .box-jobs UL LI {
-    background-image: url(http://test.dagensmedia.se/images/bullet_orange.gif);
+    background-image: url(http://static.www.dagensmedia.se/ver02/images/bullet_orange.gif);
 }
 
 /* DM JOBB */
@@ -3055,7 +3055,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .dm-jobb .dm-jobb-header {
-    background: #028EC0 url(http://test.dagensmedia.se/images/dm-jobb-logo.png) no-repeat left top;
+    background: #028EC0 url(http://static.www.dagensmedia.se/ver02/images/dm-jobb-logo.png) no-repeat left top;
     border: 6px solid #028EC0;
     border-bottom: 4px solid #028EC0;
     border-top: 8px solid #028EC0;
@@ -3094,13 +3094,13 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .dm-jobb #submenu LI.selected {
-    background: transparent url(http://test.dagensmedia.se/images/dm-plus-button_small.gif)
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/dm-plus-button_small.gif)
     no-repeat scroll right top;
     padding-right: 1px;
 }
 
 .dm-jobb #submenu LI.selected A {
-    background: transparent url(http://test.dagensmedia.se/images/dm-plus-button_small.gif)
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/dm-plus-button_small.gif)
     no-repeat scroll left top;
     color: #028EC0;
 }
@@ -3118,7 +3118,7 @@ body .box H2 { /* 'Body' for specificity */
 .job-teaser {
     margin: 12px 0 0 0;
     padding: 0 4px 6px;
-    background: #028EC0 url(http://test.dagensmedia.se/images/dm-jobb-logo.png) no-repeat 10px 3px;
+    background: #028EC0 url(http://static.www.dagensmedia.se/ver02/images/dm-jobb-logo.png) no-repeat 10px 3px;
     overflow: hidden;
     position: relative;
 }
@@ -3162,7 +3162,7 @@ body .box H2 { /* 'Body' for specificity */
 .job-teaser LI A {
     display: block;
     padding: 10px;
-    background: white url(http://test.dagensmedia.se/images/bg_job_teaser_item.png) repeat-x left
+    background: white url(http://static.www.dagensmedia.se/ver02/images/bg_job_teaser_item.png) repeat-x left
     bottom;
     color: #000000;
     font-weight: bold;
@@ -3171,12 +3171,12 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .job-teaser .highlight A {
-    background: url(http://test.dagensmedia.se/images/bg_job_teaser_item_highlight.png) repeat-x
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_job_teaser_item_highlight.png) repeat-x
     left bottom !important;
 }
 
 .job-results .highlight {
-    background: url(http://test.dagensmedia.se/images/bg_jobb_highlight.png) repeat-x scroll left
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_jobb_highlight.png) repeat-x scroll left
     bottom;
     padding: 11px 0 11px 6px !important;
 }
@@ -3311,7 +3311,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .job-search H1 {
-    background: #028EC0 url(http://test.dagensmedia.se/images/logo_dm_jobb.png) no-repeat 3px 8px;
+    background: #028EC0 url(http://static.www.dagensmedia.se/ver02/images/logo_dm_jobb.png) no-repeat 3px 8px;
     height: 50px;
     text-indent: -9999px;
 }
@@ -3555,7 +3555,7 @@ body .box H2 { /* 'Body' for specificity */
     right: 10px;
     bottom: 14px;
     padding: 0 0 0 10px;
-    background: url(http://test.dagensmedia.se/images/bg_button_play.gif) no-repeat 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_button_play.gif) no-repeat 0 0;
     color: white;
     white-space: nowrap;
     cursor: pointer;
@@ -3565,7 +3565,7 @@ body .box H2 { /* 'Body' for specificity */
     display: block;
     height: 21px;
     padding: 7px 30px 0 0;
-    background: url(http://test.dagensmedia.se/images/bg_button_play.gif) no-repeat 100% 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_button_play.gif) no-repeat 100% 0;
 }
 
 .job-results OL LI.sponsored A.video {
@@ -3601,7 +3601,7 @@ body .box H2 { /* 'Body' for specificity */
     width: 64px;
     height: 32px;
     margin: -16px 0 0 -32px;
-    background: url(http://test.dagensmedia.se/images/bg_play.png) no-repeat 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_play.png) no-repeat 0 0;
     text-indent: -9999px;
     opacity: .85;
     cursor: pointer;
@@ -3617,14 +3617,14 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .highlight {
-    background: url("http://test.dagensmedia.se/images/bg_jobb_highlight.png") repeat-y scroll 50%
+    background: url("http://static.www.dagensmedia.se/ver02/images/bg_jobb_highlight.png") repeat-y scroll 50%
     50%;
     padding: 11px 0 11px 0 !important;
 }
 
 /* Featured jobs */
 .featured-jobs {
-    background: url(http://test.dagensmedia.se/images/bg-featured-jobs.gif) no-repeat 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg-featured-jobs.gif) no-repeat 0 0;
     height: 26px;
     width: 570px;
     position: relative;
@@ -3666,7 +3666,7 @@ body .box H2 { /* 'Body' for specificity */
 
 /* Job expires */
 .article-job .job-expires, .job-results .job-expires {
-    /*background: url(http://test.dagensmedia.se/images/bg_job_expires.gif) no-repeat 0 -17px;*/
+    /*background: url(http://static.www.dagensmedia.se/ver02/images/bg_job_expires.gif) no-repeat 0 -17px;*/
     display: block;
     float: left;
     padding: 0 0 0 1px;
@@ -3801,13 +3801,13 @@ body .box H2 { /* 'Body' for specificity */
 .company-presentation {
     width: 186px;
     height: 43px;
-    background: url(http://test.dagensmedia.se/images/bg-company-presentation.gif) no-repeat 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg-company-presentation.gif) no-repeat 0 0;
     padding: 72px 10px 0 10px;
     margin: 0 0 12px 0;
 }
 
 .company-presentation a {
-    background: url(http://test.dagensmedia.se/images/bg_button_white.png) no-repeat 0 -29px;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_button_white.png) no-repeat 0 -29px;
     color: #515151;
     float: left;
     padding: 0 0 0 5px;
@@ -3815,7 +3815,7 @@ body .box H2 { /* 'Body' for specificity */
 
 .company-presentation span {
     display: block;
-    background: url(http://test.dagensmedia.se/images/bg_button_white.png) no-repeat 100% 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_button_white.png) no-repeat 100% 0;
     padding: 7px 6px 0 2px;
     height: 19px;
 }
@@ -3830,7 +3830,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .company-linkedInUrl a {
-    background: url(http://test.dagensmedia.se/images/icon_linkedin.gif) no-repeat 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icon_linkedin.gif) no-repeat 0 0;
     display: block;
     margin: 0 0 12px 0;
     overflow: hidden;
@@ -3863,7 +3863,7 @@ body .box H2 { /* 'Body' for specificity */
   DM Utbildning
 -------------------------------------------------------------- */
 .education.job-teaser {
-    background: url("http://test.dagensmedia.se/images/dm-utbildning-logo.png") no-repeat scroll 3px
+    background: url("http://static.www.dagensmedia.se/ver02/images/dm-utbildning-logo.png") no-repeat scroll 3px
     8px #000;
 }
 
@@ -3991,13 +3991,13 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .education .filter-menu .selected {
-    background: white url(http://test.dagensmedia.se/images/bg_list_selected.gif) no-repeat 0 -35px;
+    background: white url(http://static.www.dagensmedia.se/ver02/images/bg_list_selected.gif) no-repeat 0 -35px;
     position: relative;
     padding-right: 0;
 }
 
 .education .filter-menu .selected a {
-    background: url(http://test.dagensmedia.se/images/bg_list_selected.gif) no-repeat 100% 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_list_selected.gif) no-repeat 100% 0;
     color: #333;
     margin-left: 12px;
     padding: 7px 12px 7px 0;
@@ -4061,7 +4061,7 @@ body .box H2 { /* 'Body' for specificity */
     list-style-type: none;
     padding-left: 13px;
     margin-bottom: 5px;
-    background: url(http://test.dagensmedia.se/images/bullet.gif) 0 3px no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bullet.gif) 0 3px no-repeat;
 }
 
 .education .additional-content UL.tools, .education .additional-content UL.share,
@@ -4090,7 +4090,7 @@ body .box H2 { /* 'Body' for specificity */
 .platsannonser .additional-content UL.tools .facebook, .platsannonser .additional-content UL.tools .delicious,
 .platsannonser .additional-content UL.tools .digg, .platsannonser .additional-content UL.tools .twitter
 {
-    background: transparent url(http://test.dagensmedia.se/images/icons.gif) no-repeat scroll 0 0;
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/icons.gif) no-repeat scroll 0 0;
     display: block;
     height: 16px;
     width: 16px;
@@ -4136,7 +4136,7 @@ body .box H2 { /* 'Body' for specificity */
   /DM Utbildning
 -------------------------------------------------------------- */
 .job-search.education H1 {
-    background: url("http://test.dagensmedia.se/images/logo_dm_utbildning.png") no-repeat scroll 3px
+    background: url("http://static.www.dagensmedia.se/ver02/images/logo_dm_utbildning.png") no-repeat scroll 3px
     8px #000;
 }
 
@@ -4160,7 +4160,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .dm-plus .dm-plus-header {
-    background: #982068 url(http://test.dagensmedia.se/images/dm-plus-logo.gif) no-repeat left top;
+    background: #982068 url(http://static.www.dagensmedia.se/ver02/images/dm-plus-logo.gif) no-repeat left top;
     border: 6px solid #982068;
     border-bottom: 4px solid #982068;
     border-top: 8px solid #982068;
@@ -4196,13 +4196,13 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .dm-plus #submenu LI.selected {
-    background: transparent url(http://test.dagensmedia.se/images/dm-plus-button_small.gif)
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/dm-plus-button_small.gif)
     no-repeat scroll right top;
     padding-right: 1px;
 }
 
 .dm-plus #submenu LI.selected A {
-    background: transparent url(http://test.dagensmedia.se/images/dm-plus-button_small.gif)
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/dm-plus-button_small.gif)
     no-repeat scroll left top;
     color: #982068;
 }
@@ -4353,7 +4353,7 @@ body .box H2 { /* 'Body' for specificity */
 .form-box-magazine-archive-search .free-text LABEL {
     font-size: 13px;
     margin: 0 0 3px;
-    background: url(http://test.dagensmedia.se/images/icon_premium.gif) no-repeat 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icon_premium.gif) no-repeat 0 0;
     padding-left: 40px;
 }
 
@@ -4424,7 +4424,7 @@ body .box H2 { /* 'Body' for specificity */
 
 .opinion-teaser H2 A, .teaser .opinion-teaser H2 A {
     color: #333;
-    background: url(http://test.dagensmedia.se/images/q.gif) 0px 1px no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/q.gif) 0px 1px no-repeat;
     text-indent: 22px;
     display: block;
 }
@@ -4465,7 +4465,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .opinion-type-1 H2 A, .teaser .opinion-type-1 H2 A {
-    background-image: url(http://test.dagensmedia.se/images/q_green.gif);
+    background-image: url(http://static.www.dagensmedia.se/ver02/images/q_green.gif);
     background-position: 1px 2px;
     overflow: hidden;
 }
@@ -4503,7 +4503,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .media-teaser DIV {
-    background: #444 url(http://test.dagensmedia.se/images/bg_media.jpg) repeat-x 0 0;
+    background: #444 url(http://static.www.dagensmedia.se/ver02/images/bg_media.jpg) repeat-x 0 0;
     padding: 0 10px 8px 10px;
     overflow: hidden;
     _height: 1%;
@@ -4557,7 +4557,7 @@ body .box H2 { /* 'Body' for specificity */
 
 .media-teaser .tabbed-box-tabs .tabbed-box-tabs-current, .media-teaser .tabbed-box-tabs .tabbed-box-tabs-current span
 {
-    background-image: url(http://test.dagensmedia.se/images/button_small_dark.gif);
+    background-image: url(http://static.www.dagensmedia.se/ver02/images/button_small_dark.gif);
 }
 
 .media-teaser .tabbed-box-part {
@@ -4597,7 +4597,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .media-teaser h2.playlogo {
-    background: url(http://test.dagensmedia.se/images/webbtv.png) 5% 0 no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/webbtv.png) 5% 0 no-repeat;
 }
 
 /* MEDIA IN TEASERS */
@@ -4608,7 +4608,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .image-media SPAN {
-    background: url(http://test.dagensmedia.se/images/icon_play.png) 50% 50% no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icon_play.png) 50% 50% no-repeat;
 }
 
 /* TEASER */
@@ -4904,7 +4904,7 @@ body .box H2 { /* 'Body' for specificity */
     position: relative;
     top: -1px;
     padding: 0 3px 4px 3px;
-    background: #ff7800 url(http://test.dagensmedia.se/images/comment.gif) no-repeat 50% 100%;
+    background: #ff7800 url(http://static.www.dagensmedia.se/ver02/images/comment.gif) no-repeat 50% 100%;
     font-size: 9px;
     line-height: 1.9;
     color: white;
@@ -5055,7 +5055,7 @@ body .box H2 { /* 'Body' for specificity */
 
 /* TIP */
 .tip {
-    background: #eee url(http://test.dagensmedia.se/images/icon_phone.gif) 12px 7px no-repeat;
+    background: #eee url(http://static.www.dagensmedia.se/ver02/images/icon_phone.gif) 12px 7px no-repeat;
     padding: 7px 15px 9px 50px !important;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
@@ -5240,7 +5240,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .poll H2, .poll H3 {
-    background: url(http://test.dagensmedia.se/images/icons.gif) 0 -63px no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icons.gif) 0 -63px no-repeat;
     padding-left: 18px;
     margin: 0 0 5px 0;
 }
@@ -5385,7 +5385,7 @@ body .box H2 { /* 'Body' for specificity */
 
 .comment-teaser H2 A {
     color: white;
-    background: url(http://test.dagensmedia.se/images/q_white.gif) 0px 1px no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/q_white.gif) 0px 1px no-repeat;
     text-indent: 22px;
     display: block;
 }
@@ -5396,7 +5396,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .comment-teaser P {
-    background: white url(http://test.dagensmedia.se/images/bg_commentTeaser.gif) no-repeat 30px 0px;
+    background: white url(http://static.www.dagensmedia.se/ver02/images/bg_commentTeaser.gif) no-repeat 30px 0px;
     padding: 4px 0 0 65px;
 }
 
@@ -5460,7 +5460,7 @@ body .box H2 { /* 'Body' for specificity */
 .magazine-teaser UL A {
     margin: 0 0 1px 0;
     padding: 0 0 0 1.1em;
-    background: url(http://test.dagensmedia.se/images/icons.gif) no-repeat 0 2px;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icons.gif) no-repeat 0 2px;
     color: #0084FF;
     font-weight: bold;
 }
@@ -5586,7 +5586,7 @@ body .box H2 { /* 'Body' for specificity */
     display: block;
     color: #028ec0;
     font-size: 14px;
-    background: url(http://test.dagensmedia.se/images/icons.gif) no-repeat 0 12px;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icons.gif) no-repeat 0 12px;
 }
 
 /* NOTICE ARTICLE */
@@ -5838,7 +5838,7 @@ body .box H2 { /* 'Body' for specificity */
 {
     padding: 0 0 0 1.1em;
     margin: 0 0 1px 0;
-    background: url(http://test.dagensmedia.se/images/icons.gif) no-repeat 0 3px;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icons.gif) no-repeat 0 3px;
     font-weight: bold;
     color: #028ec0;
 }
@@ -5937,7 +5937,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .vevent .more {
-    background: transparent url(http://test.dagensmedia.se/images/icons.gif) no-repeat 0 3px;
+    background: transparent url(http://static.www.dagensmedia.se/ver02/images/icons.gif) no-repeat 0 3px;
     color: #0075E7;
     float: none;
     font-size: 13px;
@@ -5989,12 +5989,12 @@ body .box H2 { /* 'Body' for specificity */
 
 .search-heading LI.selected {
     padding: 0 3px 0 0;
-    background: url(http://test.dagensmedia.se/images/button_small.gif) no-repeat top right;
+    background: url(http://static.www.dagensmedia.se/ver02/images/button_small.gif) no-repeat top right;
 }
 
 .search-heading LI.selected A {
     padding: 4px 3px 5px 5px;
-    background: url(http://test.dagensmedia.se/images/button_small.gif) no-repeat top left;
+    background: url(http://static.www.dagensmedia.se/ver02/images/button_small.gif) no-repeat top left;
     color: white;
     font-weight: bold;
 }
@@ -6059,7 +6059,7 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .results .locked P {
-    background: url("http://test.dagensmedia.se/images/icon_premium.gif") no-repeat scroll 0 0
+    background: url("http://static.www.dagensmedia.se/ver02/images/icon_premium.gif") no-repeat scroll 0 0
     transparent;
     text-indent: 80px;
 }
@@ -6191,7 +6191,7 @@ body .box H2 { /* 'Body' for specificity */
     background-color: #353535;
     width: auto;
     -moz-border-radius: 3px 3px 3px 3px;
-    background: url("http://test.dagensmedia.se/images/bg_button.png") repeat-x scroll left top
+    background: url("http://static.www.dagensmedia.se/ver02/images/bg_button.png") repeat-x scroll left top
     #353535;
 }
 
@@ -6290,13 +6290,13 @@ body .box H2 { /* 'Body' for specificity */
 
 .media-grid LI .target-video SPAN {
     text-indent: 18px;
-    background-image: url(http://test.dagensmedia.se/images/icon_video.gif);
+    background-image: url(http://static.www.dagensmedia.se/ver02/images/icon_video.gif);
     background-position: 1px 2px;
 }
 
 .media-grid LI .target-audio SPAN {
     text-indent: 16px;
-    background-image: url(http://test.dagensmedia.se/images/icon_audio.gif);
+    background-image: url(http://static.www.dagensmedia.se/ver02/images/icon_audio.gif);
     background-position: 1px 0;
 }
 
@@ -6313,7 +6313,7 @@ body .box H2 { /* 'Body' for specificity */
     display: block;
     width: 15px;
     height: 15px;
-    background: url(http://test.dagensmedia.se/images/icons.gif) no-repeat -104px -113px;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icons.gif) no-repeat -104px -113px;
     text-indent: -9999px;
 }
 
@@ -6429,7 +6429,7 @@ body .box H2 { /* 'Body' for specificity */
     margin: 12px 0 0 0;
     padding: 12px 0 15px 0;
     border-top: 1px solid #ccc;
-    background: url(http://test.dagensmedia.se/images/twitter_logo.gif) no-repeat bottom right;
+    background: url(http://static.www.dagensmedia.se/ver02/images/twitter_logo.gif) no-repeat bottom right;
 }
 
 .live-feeds H2 {
@@ -6463,28 +6463,28 @@ body .box H2 { /* 'Body' for specificity */
 }
 
 .target-audio {
-    background: url('http://test.dagensmedia.se/images/icon_audio.gif') no-repeat 1px 0px;
+    background: url('http://static.www.dagensmedia.se/ver02/images/icon_audio.gif') no-repeat 1px 0px;
     text-indent: 14px;
 }
 
 .target-video {
-    background: url('http://test.dagensmedia.se/images/icon_video.gif') no-repeat 1px 3px;
+    background: url('http://static.www.dagensmedia.se/ver02/images/icon_video.gif') no-repeat 1px 3px;
 }
 
 .target-slideshow {
-    background: url('http://test.dagensmedia.se/images/icon_slideshow.gif') no-repeat 1px 3px;
+    background: url('http://static.www.dagensmedia.se/ver02/images/icon_slideshow.gif') no-repeat 1px 3px;
     text-indent: 15px;
 }
 
 A.target-premium {
-    background: url('http://test.dagensmedia.se/images/icon_premium.gif') no-repeat 0 0 !important;
+    background: url('http://static.www.dagensmedia.se/ver02/images/icon_premium.gif') no-repeat 0 0 !important;
     padding-left: 80px !important;
     text-indent: 0;
 }
 
 .target-premium {
     text-indent: 80px;
-    background: url('http://test.dagensmedia.se/images/icon_premium.gif') no-repeat 0 0;
+    background: url('http://static.www.dagensmedia.se/ver02/images/icon_premium.gif') no-repeat 0 0;
 }
 
 /* ADS */
@@ -6674,7 +6674,7 @@ A.target-premium {
 
 #twingly .tw_item {
     margin: 0 0 5px 0;
-    background: url(http://test.dagensmedia.se/images/list_item_bullet.gif) no-repeat 2px 5px;
+    background: url(http://static.www.dagensmedia.se/ver02/images/list_item_bullet.gif) no-repeat 2px 5px;
     padding-left: 12px;
 }
 
@@ -6722,7 +6722,7 @@ A.target-premium {
     position: relative;
     margin: 0 0 10px 0;
     padding: 10px;
-    background: #7b7b7b url(http://test.dagensmedia.se/images/footer_bg.png) repeat-x top right;
+    background: #7b7b7b url(http://static.www.dagensmedia.se/ver02/images/footer_bg.png) repeat-x top right;
     color: #222;
     font-size: 12px;
     overflow: hidden;
@@ -6760,7 +6760,7 @@ A.target-premium {
 }
 
 #footer .general-links .content {
-    background: url(http://test.dagensmedia.se/images/footer_border.gif) repeat-y 136px 100%;
+    background: url(http://static.www.dagensmedia.se/ver02/images/footer_border.gif) repeat-y 136px 100%;
     overflow: hidden;
 }
 
@@ -6848,7 +6848,7 @@ A.target-premium {
 }
 
 .page-opinions .columns-2-1 .column1 .opinion-type-2 {
-    background: url(http://test.dagensmedia.se/images/quote.gif) 0px 10px no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/quote.gif) 0px 10px no-repeat;
 }
 
 .page-opinions .section-heading {
@@ -6914,7 +6914,7 @@ A.target-premium {
 
 /* PAGE SPECIFIC STYLES */
 .dr-dm-presenteras-av-posten .columns-3-1 .column1 {
-    background: url(http://test.dagensmedia.se/images/bg_gradient_yellow.png) repeat-x 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_gradient_yellow.png) repeat-x 0 0;
 }
 
 .dr-dm-presenteras-av-posten .columns-3-1 .column1 .column1 {
@@ -6922,7 +6922,7 @@ A.target-premium {
 }
 
 .tv-dm-presenteras-av-reklamkraft .columns-3-1 .column1 {
-    background: url("http://test.dagensmedia.se/images/bg_gradient_rainbow.png") no-repeat scroll
+    background: url("http://static.www.dagensmedia.se/ver02/images/bg_gradient_rainbow.png") no-repeat scroll
     0px 6px;
 }
 
@@ -6935,7 +6935,7 @@ A.target-premium {
 }
 
 .digitalt-dm-presenteras-av-Specific-Media .columns-3-1 .column1 {
-    background: url(http://test.dagensmedia.se/images/bg_gradient_orangea.png) repeat-x 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_gradient_orangea.png) repeat-x 0 0;
 }
 
 .digitalt-dm-presenteras-av-Specific-Media .columns-3-1 .column1 .column1
@@ -6944,7 +6944,7 @@ A.target-premium {
 }
 
 .pr-dm-presenteras-av-Mynewsdesk .columns-3-1 .column1 {
-    background: url(http://test.dagensmedia.se/images/bg_gradient_red.png) repeat-x 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_gradient_red.png) repeat-x 0 0;
 }
 
 .pr-dm-presenteras-av-Mynewsdesk .columns-3-1 .column1 .column1 {
@@ -6952,7 +6952,7 @@ A.target-premium {
 }
 
 .tidskrifter-dm-presenteras-av-forma .columns-3-1 .column1 {
-    background: url(http://test.dagensmedia.se/images/bg_gradient_red_forma.png) repeat-x 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_gradient_red_forma.png) repeat-x 0 0;
 }
 
 .tidskrifter-dm-presenteras-av-forma .columns-3-1 .column1 .column1 {
@@ -6960,7 +6960,7 @@ A.target-premium {
 }
 
 .dagspress-dm-presenteras-av-riksmedia .columns-3-1 .column1 {
-    background: url(http://test.dagensmedia.se/images/bg_gradient_blue.png) repeat-x 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_gradient_blue.png) repeat-x 0 0;
 }
 
 .dagspress-dm-presenteras-av-riksmedia .columns-3-1 .column1 .column1 {
@@ -6968,7 +6968,7 @@ A.target-premium {
 }
 
 .mobilt-dm-presenteras-av-aftonbladet .columns-3-1 .column1 {
-    background: url(http://test.dagensmedia.se/images/bg_gradient_yellow_ab.png) repeat-x 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_gradient_yellow_ab.png) repeat-x 0 0;
 }
 
 .mobilt-dm-presenteras-av-aftonbladet .columns-3-1 .column1 .column1 {
@@ -6976,7 +6976,7 @@ A.target-premium {
 }
 
 .mobilt-dm-presenteras-av-tv .columns-3-1 .column1 {
-    background: url(http://test.dagensmedia.se/images/bg_gradient_yellow_tv.png) repeat-x 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_gradient_yellow_tv.png) repeat-x 0 0;
 }
 
 .mobilt-dm-presenteras-av-tv .columns-3-1 .column1 .column1 {
@@ -6984,7 +6984,7 @@ A.target-premium {
 }
 
 .dr-dm-dm-presenteras-av-reaktion .columns-3-1 .column1 {
-    background: url(http://test.dagensmedia.se/images/bg_gradient_red_reaktion.png) repeat-x 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_gradient_red_reaktion.png) repeat-x 0 0;
 }
 
 .dr-dm-dm-presenteras-av-reaktion .columns-3-1 .column1 .column1 {
@@ -6992,7 +6992,7 @@ A.target-premium {
 }
 
 .utomhus-presenteras-av-adcitymedia .columns-3-1 .column1 {
-    background: url(http://test.dagensmedia.se/images/bg_gradient_green_adcitymedia.png) repeat-x 0
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_gradient_green_adcitymedia.png) repeat-x 0
     0;
 }
 
@@ -7001,7 +7001,7 @@ A.target-premium {
 }
 
 .tidskrifter-presenteras-av-dagenssamhalle .columns-3-1 .column1 {
-    background: url("http://test.dagensmedia.se/images/bg_gradient_dagenssamhalle.png") no-repeat
+    background: url("http://static.www.dagensmedia.se/ver02/images/bg_gradient_dagenssamhalle.png") no-repeat
     scroll 0px 6px;
 }
 
@@ -7015,7 +7015,7 @@ A.target-premium {
 }
 
 .content-marketing-presenteras-av-otw .columns-3-1 .column1 {
-    background: url(http://test.dagensmedia.se/images/bg_gradient_dark_blue.png) repeat-x 0 0;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_gradient_dark_blue.png) repeat-x 0 0;
 }
 
 .content-marketing-presenteras-av-otw .columns-3-1 .column1 .column1 {
@@ -7257,13 +7257,13 @@ div#threads {
 
 /* KONSULTGUIDEN BOX:ES */
 .columns-3-1 .column2 .kg-search-teaser {
-    background: url(http://test.dagensmedia.se/images/KG200-bg.gif) no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/KG200-bg.gif) no-repeat;
     height: 180px;
     padding: 10px;
 }
 
 .columns-3-1 .column1 .columns-2-1 .column2 .kg-search-teaser {
-    background: url(http://test.dagensmedia.se/images/KG250-bg.gif) no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/KG250-bg.gif) no-repeat;
     padding: 10px 20px;
     border-top: none;
     height: 140px;
@@ -7426,7 +7426,7 @@ div#threads {
 .article-bread .dtstart .day
 {
     display: block;
-    background: url(http://test.dagensmedia.se/images/bg_calendarLeaf.png) top left no-repeat;
+    background: url(http://static.www.dagensmedia.se/ver02/images/bg_calendarLeaf.png) top left no-repeat;
     text-align: center;
     text-shadow: 0 1px #888888;
 }
@@ -7572,7 +7572,7 @@ div#threads {
     font-size: 16px;
     line-height: 24px;
     background-color: #edebeb;
-    background-image: url('http://test.dagensmedia.se/images/page-prenumerera-bg.png');
+    background-image: url('http://static.www.dagensmedia.se/ver02/images/page-prenumerera-bg.png');
 }
 
 .page-prenumerera #page {
@@ -7615,7 +7615,7 @@ div#threads {
     margin: 0;
     padding: 0 10px;
     background-color: #484848;
-    background-image: url('http://test.dagensmedia.se/images/page-prenumerera-bg-menu.png');
+    background-image: url('http://static.www.dagensmedia.se/ver02/images/page-prenumerera-bg-menu.png');
     background-repeat: repeat;
     font-size: 14px;
     font-family: 'Lato', Arial, Helvetica, sans-serif;
@@ -7798,7 +7798,7 @@ div#threads {
     margin-bottom: 2px;
     padding: 2.127659574468% 3.191489361702%;
     width: 25.531914893617%; /* render as 218px */
-    background: white url('http://test.dagensmedia.se/images/page-prenumerera-bg-white-box.png')
+    background: white url('http://static.www.dagensmedia.se/ver02/images/page-prenumerera-bg-white-box.png')
     repeat-x 0 100%;
     text-align: center;
     -webkit-border-radius: 5px;
@@ -7925,14 +7925,14 @@ div#threads {
 }
 
 .page-prenumeration-compare td.yes {
-    background: #a6d49e url('http://test.dagensmedia.se/images/page-prenumerera-icon-valid.png')
+    background: #a6d49e url('http://static.www.dagensmedia.se/ver02/images/page-prenumerera-icon-valid.png')
     no-repeat 50% 50%;
     text-indent: -999px;
     overflow: hidden;
 }
 
 .page-prenumeration-compare td.no {
-    background: #edebeb url('http://test.dagensmedia.se/images/page-prenumerera-icon-error.png')
+    background: #edebeb url('http://static.www.dagensmedia.se/ver02/images/page-prenumerera-icon-error.png')
     no-repeat 50% 50%;
     text-indent: -999px;
     overflow: hidden;
@@ -8029,7 +8029,7 @@ div#threads {
     height: 100%;
     width: 100%;
     z-index: 9000;
-    background: url('http://test.dagensmedia.se/images/bg_overlay.png');
+    background: url('http://static.www.dagensmedia.se/ver02/images/bg_overlay.png');
 }
 
 #authenticatorPopup {
@@ -8163,7 +8163,7 @@ div#threads {
     height: 24px;
     width: 24px;
     overflow: hidden;
-    background: url('http://test.dagensmedia.se/images/page-prenumerera-icon-login.png') no-repeat 0
+    background: url('http://static.www.dagensmedia.se/ver02/images/page-prenumerera-icon-login.png') no-repeat 0
     0;
     text-indent: -999px;
 }
@@ -8171,7 +8171,7 @@ div#threads {
 .page-prenumerera.page-login .form-box-login label[for='simple-user-password'],
 .page-prenumerera.page-login .form-box-login label[for='simple-user-password-confirm']
 {
-    background: url('http://test.dagensmedia.se/images/page-prenumerera-icon-login.png') no-repeat 0
+    background: url('http://static.www.dagensmedia.se/ver02/images/page-prenumerera-icon-login.png') no-repeat 0
     -66px;
 }
 
@@ -8179,7 +8179,7 @@ div#threads {
 .page-prenumerera.page-login .form-box-login #simple-user-password,
 .page-prenumerera.page-login .form-box-login #simple-user-password-confirm
 {
-    background: white url('http://test.dagensmedia.se/images/page-prenumerera-icon-login.png')
+    background: white url('http://static.www.dagensmedia.se/ver02/images/page-prenumerera-icon-login.png')
     no-repeat -9999px -9999px;
     border: 1px solid #ccc;
     padding: 14px 136px 14px 44px;
@@ -8309,7 +8309,7 @@ div#threads {
     z-index: 9020;
     overflow: hidden;
     text-indent: -999px;
-    background: url('http://test.dagensmedia.se/images/page-prenumerera-icon-close.png') no-repeat
+    background: url('http://static.www.dagensmedia.se/ver02/images/page-prenumerera-icon-close.png') no-repeat
     50% 50%;
 }
 
@@ -8448,7 +8448,7 @@ div#threads {
         top: 9px !important;
         width: 672px;
         height: 126px;
-        background: url(http://test.dagensmedia.se/images/bg_topTeasers.png) repeat-x 0 0;
+        background: url(http://static.www.dagensmedia.se/ver02/images/bg_topTeasers.png) repeat-x 0 0;
     }
 
     #top-teasers .item-0 {

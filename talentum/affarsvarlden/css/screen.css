@@ -160,7 +160,7 @@ INPUT,TEXTAREA,SELECT {
 
 INPUT.submit {
   width: auto !important;
-  background: #353535 url(http://test.affarsvarlden.se/images/bg_button.png) repeat-x top left;
+  background: #353535 url(http://static.www.affarsvarlden.se/ver02/images/bg_button.png) repeat-x top left;
   border: 0;
   color: white;
   padding: 3px;
@@ -369,7 +369,7 @@ A.more:hover {
 }
 
 A.rss {
-  background: url(http://test.affarsvarlden.se/images/icon_rss.gif) no-repeat 100% 0px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon_rss.gif) no-repeat 100% 0px;
   padding-right: 17px;
 }
 
@@ -536,7 +536,7 @@ TABLE {
   text-align: center;
   font-size: 20px;
   padding: 80px 0;
-  background: url(http://test.affarsvarlden.se/images/loader.gif) no-repeat 50% 40px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/loader.gif) no-repeat 50% 40px;
 }
 
 /* LOGIN FORM, FORM ARTICLE */
@@ -622,7 +622,7 @@ TABLE {
 }
 
 .form-box-login .form-box-information .more {
-  background: transparent url(http://test.affarsvarlden.se/images/icons.gif) no-repeat scroll 0
+  background: transparent url(http://static.www.affarsvarlden.se/ver02/images/icons.gif) no-repeat scroll 0
     -357px;
   color: #0084FF;
   float: none;
@@ -656,7 +656,7 @@ TABLE {
   padding: 0 20px 0 20px;
   height: 27px;
   width: 960px;
-  background: #333 url('http://test.affarsvarlden.se/images/bg_navbar_top.png') repeat-x 0 0;
+  background: #333 url('http://static.www.affarsvarlden.se/ver02/images/bg_navbar_top.png') repeat-x 0 0;
 }
 
 #navbar-top .content {
@@ -714,7 +714,7 @@ TABLE {
   top: 0px;
   width: 672px;
   height: 126px;
-  background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 0 0;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/bg_topTeasers.png) repeat-x 0 0;
 }
 
 /*Revamped Top-teasers*/
@@ -738,7 +738,7 @@ top: 0px !important;
 width: 70% !important;
 height: 126px;
 float: right;
-background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 0 0;
+background: url(http://static.www.affarsvarlden.se/ver02/images/bg_topTeasers.png) repeat-x 0 0;
 }*/
 /* //Revamped Top-Teasers */
 #top-teasers .teaser {
@@ -787,7 +787,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
   height: 32px;
   margin: 0;
   /*padding: 0 0 0 35px;*/
-  background: url(http://test.affarsvarlden.se/images/icon_stock.png) no-repeat 0 -168px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon_stock.png) no-repeat 0 -168px;
 }
 
 .stock-teaser A:hover,.stock-teaser A:focus {
@@ -847,7 +847,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
 
 #top-teasers .item-1 .teaser H2 {
   min-height: 17px;
-  background: url(http://test.affarsvarlden.se/images/icon-quotes.png) no-repeat 0 3px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon-quotes.png) no-repeat 0 3px;
   font-size: 20px;
   font-weight: bold;
   line-height: 1.1;
@@ -910,7 +910,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
 #top-teasers .login-info A.action {
   display: none;
   margin: -3px 10px 0 -3px;
-  background: url(http://test.affarsvarlden.se/images/bg_header.png) no-repeat 0 -52px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/bg_header.png) no-repeat 0 -52px;
   padding: 0 0 0 14px;
   font-size: 14px;
   line-height: 1;
@@ -922,7 +922,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
 #top-teasers .login-info A.action SPAN {
   display: block;
   height: 23px;
-  background: url(http://test.affarsvarlden.se/images/bg_header.png) no-repeat 100% -52px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/bg_header.png) no-repeat 100% -52px;
   padding: 8px 16px 0 0;
   cursor: pointer;
 }
@@ -954,7 +954,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
 #top-teasers .login FORM DIV {
   float: left;
   margin: 0 10px 8px 0;
-  background: url(http://test.affarsvarlden.se/images/bg_header.gif) no-repeat 0 -23px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/bg_header.gif) no-repeat 0 -23px;
 }
 
 #top-teasers .login FORM INPUT {
@@ -981,7 +981,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
   width: 60px !important;
   height: 21px;
   margin-right: 10px;
-  background: url("http://test.affarsvarlden.se/images/bg_button_green.png") repeat-x scroll left
+  background: url("http://static.www.affarsvarlden.se/ver02/images/bg_button_green.png") repeat-x scroll left
     top #258820;
   padding: 0 0 1px 0;
 }
@@ -1009,7 +1009,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
 
 #top-teasers .search .search-field {
   display: inline-block;
-  background: url(http://test.affarsvarlden.se/images/bg_header.gif) no-repeat -96px -23px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/bg_header.gif) no-repeat -96px -23px;
 }
 
 #top-teasers .search INPUT[type=text] {
@@ -1142,7 +1142,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
     #menu {
     float: left;
     width: 964px;
-    background: url(http://test.affarsvarlden.se/images/bg_header.gif) repeat-x 0 -85px;
+    background: url(http://static.www.affarsvarlden.se/ver02/images/bg_header.gif) repeat-x 0 -85px;
     }
     #menu A {
     color: #fff;
@@ -1162,7 +1162,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
     }
     #menu .selected {
     margin: -2px 0 0 0;
-    background: url(http://test.affarsvarlden.se/images/bg_header.gif) repeat-x 0 -120px;
+    background: url(http://static.www.affarsvarlden.se/ver02/images/bg_header.gif) repeat-x 0 -120px;
     padding: 0 0 0 4px;
     border-right: 2px solid #fff;
     border-left: 2px solid #fff;
@@ -1171,12 +1171,12 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
     border-left: 0;
     }
     #menu .selected A {
-    background: url(http://test.affarsvarlden.se/images/bg_header.gif) repeat-x 100% -120px;
+    background: url(http://static.www.affarsvarlden.se/ver02/images/bg_header.gif) repeat-x 100% -120px;
     color: #fff;
     text-shadow: 0 0;
     }
     #menu .selected A SPAN {
-    background: url(http://test.affarsvarlden.se/images/bg_header.gif) repeat-x 50% -164px;
+    background: url(http://static.www.affarsvarlden.se/ver02/images/bg_header.gif) repeat-x 50% -164px;
     padding: 7px 10px 0 6px;
     }
     */
@@ -1338,7 +1338,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
   margin: 0;
   text-indent: -9999px;
   overflow: hidden;
-  background: url("http://test.affarsvarlden.se/images/icon_close.png") no-repeat 10px 10px;
+  background: url("http://static.www.affarsvarlden.se/ver02/images/icon_close.png") no-repeat 10px 10px;
   border: 0;
   padding: 10px;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
@@ -1349,7 +1349,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
 }
 
 #menu .target-close:focus,#menu .target-close:hover {
-  background: url("http://test.affarsvarlden.se/images/icon_close.png") no-repeat 10px 10px;
+  background: url("http://static.www.affarsvarlden.se/ver02/images/icon_close.png") no-repeat 10px 10px;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   filter: alpha(opacity =   100);
   -khtml-opacity: 1;
@@ -1387,7 +1387,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
 }
 
 #submenu LI.has-submenu A,#submenu LI.has-submenu LI.has-submenu A {
-  background-image: url(http://test.affarsvarlden.se/images/icon_submenu.png);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/icon_submenu.png);
   background-repeat: no-repeat;
   background-position: 100% 9px;
 }
@@ -1462,7 +1462,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
 .columns-1-1 .column1 .columns-1-1 /* COLUMNS */
     .columns-1-1,.columns-1-1 .column1 .columns-1-1,.columns-1-1 .column2 .columns-1-2,.columns-1-1 .column2 .columns-2-1,.columns-1-1-1,.columns-3-1,.columns-2-1
   {
-  background: url(http://test.affarsvarlden.se/images/columns_border.gif) repeat-y;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/columns_border.gif) repeat-y;
 }
 
 .columns-1-1 {
@@ -1503,7 +1503,7 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
   margin-top: 13px;
   border-top: 1px solid #ccc;
   background-repeat: repeat;
-  background-image: url(http://test.affarsvarlden.se/images/columns_border_1-1-1.gif);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/columns_border_1-1-1.gif);
   background-position: 0 0;
 }
 
@@ -1622,11 +1622,11 @@ background: url(http://test.affarsvarlden.se/images/bg_topTeasers.png) repeat-x 
     list-style-type: none;
     }
     .page-menu LI.selected {
-    background: url(http://test.affarsvarlden.se/images/button_small.gif) no-repeat top right;
+    background: url(http://static.www.affarsvarlden.se/ver02/images/button_small.gif) no-repeat top right;
     padding: 0 3px 0 0;
     }
     .page-menu LI.selected A {
-    background: url(http://test.affarsvarlden.se/images/button_small.gif) no-repeat top left;
+    background: url(http://static.www.affarsvarlden.se/ver02/images/button_small.gif) no-repeat top left;
     color: white;
     padding-left: 5px;
     }
@@ -1840,7 +1840,7 @@ UL.tools {
 .article .additional-content .links LI {
   list-style-type: none;
   padding-left: 13px;
-  background: url(http://test.affarsvarlden.se/images/bullet.gif) 0 3px no-repeat;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/bullet.gif) 0 3px no-repeat;
 }
 
 .article .additional-content UL.tools,.article .additional-content UL.share
@@ -1861,7 +1861,7 @@ UL.tools {
 
 .article .additional-content UL.tools .toggle-recommend,.article .additional-content UL.tools .print,.article .additional-content UL.tools .toggle-text-size,.facebook,.delicious,.digg,.twitter
   {
-  background: transparent url(http://test.affarsvarlden.se/images/icons.gif) no-repeat scroll 0 0;
+  background: transparent url(http://static.www.affarsvarlden.se/ver02/images/icons.gif) no-repeat scroll 0 0;
   display: block;
   height: 16px;
   width: 16px;
@@ -2024,13 +2024,13 @@ UL.share A {
 }
 
 .article .additional-content .tools H2 {
-  background: transparent url(http://test.affarsvarlden.se/images/tools.gif) no-repeat 0 -42px;
+  background: transparent url(http://static.www.affarsvarlden.se/ver02/images/tools.gif) no-repeat 0 -42px;
   text-indent: -9999px;
   height: 16px;
 }
 
 .article .additional-content .links H2 {
-  background: transparent url(http://test.affarsvarlden.se/images/tools.gif) no-repeat 0 -22px;
+  background: transparent url(http://static.www.affarsvarlden.se/ver02/images/tools.gif) no-repeat 0 -22px;
   text-indent: -9999px;
   height: 16px;
 }
@@ -2046,7 +2046,7 @@ UL.share A {
 }
 
 .article .additional-content .tags H2 {
-  background: transparent url(http://test.affarsvarlden.se/images/tools.gif) no-repeat 0 -4px;
+  background: transparent url(http://static.www.affarsvarlden.se/ver02/images/tools.gif) no-repeat 0 -4px;
   text-indent: -9999px;
   height: 16px;
 }
@@ -2160,7 +2160,7 @@ TD P,TH P {
 #recommend FORM {
   color: white;
   padding: 10px;
-  background: #313131 url(http://test.affarsvarlden.se/images/bg_popup_recommend.jpg) repeat-x 0 0;
+  background: #313131 url(http://static.www.affarsvarlden.se/ver02/images/bg_popup_recommend.jpg) repeat-x 0 0;
   font-size: 12px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -2283,7 +2283,7 @@ TD P,TH P {
   width: 148px;
   height: 41px;
   margin: 0 0 0 -74px;
-  background: url(http://test.affarsvarlden.se/images/slideshow_navigation.png) no-repeat left top;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/slideshow_navigation.png) no-repeat left top;
 }
 
 .media-slideshow .navigation .next,.media-slideshow .navigation .previous
@@ -2297,12 +2297,12 @@ TD P,TH P {
 }
 
 .media-slideshow .navigation .next {
-  background: url(http://test.affarsvarlden.se/images/icon_arrow_right.png) no-repeat left top;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon_arrow_right.png) no-repeat left top;
   right: 10px;
 }
 
 .media-slideshow .navigation .previous {
-  background: url(http://test.affarsvarlden.se/images/icon_arrow_left.png) no-repeat left top;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon_arrow_left.png) no-repeat left top;
   left: 10px;
 }
 
@@ -2347,7 +2347,7 @@ TD P,TH P {
   top: 0;
   width: 17px;
   height: 17px;
-  background-image: url(http://test.affarsvarlden.se/images/icons_slideshow_small.gif);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/icons_slideshow_small.gif);
 }
 
 .article .media-slideshow .navigation .next {
@@ -2372,7 +2372,7 @@ TD P,TH P {
 }
 
 .media-video,.media-audio {
-  background: #444 url(http://test.affarsvarlden.se/images/bg_media.jpg) repeat-x 0 0;
+  background: #444 url(http://static.www.affarsvarlden.se/ver02/images/bg_media.jpg) repeat-x 0 0;
   margin: 0 0 10px 0;
   padding: 33px 13px 13px 13px;
   color: white;
@@ -2564,7 +2564,7 @@ TD P,TH P {
   background-color: #353535;
   width: auto;
   -moz-border-radius: 3px 3px 3px 3px;
-  background: url("http://test.affarsvarlden.se/images/bg_button.png") repeat-x scroll left top
+  background: url("http://static.www.affarsvarlden.se/ver02/images/bg_button.png") repeat-x scroll left top
     #353535;
 }
 
@@ -2671,7 +2671,7 @@ TD P,TH P {
 }
 
 .videocomments .comment {
-  background: #EEE url(http://test.affarsvarlden.se/images/bg_comment.png) no-repeat scroll bottom
+  background: #EEE url(http://static.www.affarsvarlden.se/ver02/images/bg_comment.png) no-repeat scroll bottom
     left;
   width: 665px;
 }
@@ -2723,7 +2723,7 @@ TD P,TH P {
 }
 
 .videocomments .media-grid LI .target-video SPAN {
-  background-image: url("http://test.affarsvarlden.se/images/icon_video.png");
+  background-image: url("http://static.www.affarsvarlden.se/ver02/images/icon_video.png");
 }
 
 .videocomments .checkbox INPUT,INPUT.checkbox,.radio INPUT,INPUT.radio,INPUT[type="checkbox"]
@@ -2754,7 +2754,7 @@ TD P,TH P {
 .articleCommentInfo {
   padding: 7px;
   margin: 11px 0 15px;
-  background: url("http://test.affarsvarlden.se/images/icon_info.png") no-repeat scroll 6px #E5EFFF;
+  background: url("http://static.www.affarsvarlden.se/ver02/images/icon_info.png") no-repeat scroll 6px #E5EFFF;
 }
 
 .articleCommentInfo P {
@@ -2805,7 +2805,7 @@ TD P,TH P {
 }
 
 #comments .no-of-comments {
-  background: #86B200 url(http://test.affarsvarlden.se/images/afv_no_of_comments.gif) no-repeat
+  background: #86B200 url(http://static.www.affarsvarlden.se/ver02/images/afv_no_of_comments.gif) no-repeat
     bottom left;
   color: #fff;
   font-weight: bold;
@@ -2830,7 +2830,7 @@ TD P,TH P {
 }
 
 .comment {
-  background: #eee url(http://test.affarsvarlden.se/images/bg_comment.png) no-repeat scroll bottom
+  background: #eee url(http://static.www.affarsvarlden.se/ver02/images/bg_comment.png) no-repeat scroll bottom
     left;
   margin: 0 0 14px 0;
   padding: 0 0 51px;
@@ -3016,7 +3016,7 @@ TD P,TH P {
 
 /* FACTS */
 .facts {
-  background: url("http://test.affarsvarlden.se/images/bg_factsBox.gif") repeat scroll right bottom
+  background: url("http://static.www.affarsvarlden.se/ver02/images/bg_factsBox.gif") repeat scroll right bottom
     #EEEEEE;
   clear: both;
   margin: 20px 0;
@@ -3067,7 +3067,7 @@ TD P,TH P {
 /* BUTTONS */
 .button {
   width: auto !important;
-  background: #353535 url(http://test.affarsvarlden.se/images/bg_button.png) repeat-x top left;
+  background: #353535 url(http://static.www.affarsvarlden.se/ver02/images/bg_button.png) repeat-x top left;
   border: 0;
   color: white;
   padding: 4px 5px;
@@ -3107,7 +3107,7 @@ TD P,TH P {
 }
 
 .zoomed-picture SPAN {
-  background: url(http://test.affarsvarlden.se/images/icon_close.png) top left no-repeat;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon_close.png) top left no-repeat;
   width: 17px;
   height: 17px;
   position: absolute;
@@ -3190,7 +3190,7 @@ TD P,TH P {
   left: 0;
   width: 72px;
   padding: 4px 0 0 0;
-  background: url(http://test.affarsvarlden.se/images/bg_tooltip.gif) no-repeat 50% 0;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/bg_tooltip.gif) no-repeat 50% 0;
   text-indent: 0;
 }
 
@@ -3214,7 +3214,7 @@ TD P,TH P {
   line-height: 1;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
-  background: #313131 url(http://test.affarsvarlden.se/images/bg_tooltip.gif) no-repeat 0 -206px;
+  background: #313131 url(http://static.www.affarsvarlden.se/ver02/images/bg_tooltip.gif) no-repeat 0 -206px;
   opacity: 1;
   width: 56px;
 }
@@ -3246,7 +3246,7 @@ P .entry-word {
   left: 0;
   display: block;
   z-index: 10;
-  background: url("http://test.affarsvarlden.se/images/bg_tag.gif") repeat-x scroll left top black;
+  background: url("http://static.www.affarsvarlden.se/ver02/images/bg_tag.gif") repeat-x scroll left top black;
   color: white;
   padding: 2px 4px;
 }
@@ -3260,11 +3260,11 @@ P .entry-word {
 }
 
 .tag-video {
-  background-image: url(http://test.affarsvarlden.se/images/icon_video.gif);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/icon_video.gif);
 }
 
 .tag-audio {
-  background-image: url(http://test.affarsvarlden.se/images/icon_audio.gif);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/icon_audio.gif);
 }
 
 /* TABBED BOX */
@@ -3365,7 +3365,7 @@ P .entry-word {
   display: block;
   min-height: 18px;
   margin: 8px 0 0 5px;
-  background: url(http://test.affarsvarlden.se/images/icons.gif) no-repeat 0 -272px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icons.gif) no-repeat 0 -272px;
   padding: 1px 0 1px 20px;
   font-weight: bold;
 }
@@ -3412,7 +3412,7 @@ P .entry-word {
 /* BOX WHITEPAPER */
 .box-whitepaper {
   border-color: #DDDDDD;
-  background: #fff url(http://test.affarsvarlden.se/images/gradient_grey_vertical_166.png) repeat-x
+  background: #fff url(http://static.www.affarsvarlden.se/ver02/images/gradient_grey_vertical_166.png) repeat-x
     left top;
   color: white;
 }
@@ -3445,7 +3445,7 @@ P .entry-word {
 
 .box-whitepaper .active-accordion-part H3 {
   min-height: 35px;
-  background: transparent url(http://test.affarsvarlden.se/images/icon-pdf-37x35.png) no-repeat
+  background: transparent url(http://static.www.affarsvarlden.se/ver02/images/icon-pdf-37x35.png) no-repeat
     scroll 100% 0;
   padding-right: 29px;
   color: white;
@@ -3495,7 +3495,7 @@ P .entry-word {
   top: 10px;
   right: 10px;
   cursor: pointer;
-  background: url(http://test.affarsvarlden.se/images/icons.gif) 0 -112px no-repeat;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icons.gif) 0 -112px no-repeat;
 }
 
 .previous-carousel-part {
@@ -3605,7 +3605,7 @@ P .entry-word {
 
 .box-body UL LI {
   list-style-type: none;
-  background: url(http://test.affarsvarlden.se/images/bullet.gif) no-repeat 0 3px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/bullet.gif) no-repeat 0 3px;
   padding-left: 15px;
 }
 
@@ -3654,7 +3654,7 @@ P .entry-word {
 }
 
 .box-body .more {
-  background: url("http://test.affarsvarlden.se/images/icons.gif") no-repeat scroll 0 -272px
+  background: url("http://static.www.affarsvarlden.se/ver02/images/icons.gif") no-repeat scroll 0 -272px
     transparent;
   color: black;
   display: block;
@@ -3738,7 +3738,7 @@ P .entry-word {
 
 .box-jobs H2 {
   text-indent: -999px;
-  background-image: url(http://test.affarsvarlden.se/images/logo_dmjobb.gif);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/logo_dmjobb.gif);
   background-repeat: no-repeat;
   background-position: 10px 10px;
   height: 46px;
@@ -3761,7 +3761,7 @@ P .entry-word {
 }
 
 .box-jobs UL LI {
-  background-image: url(http://test.affarsvarlden.se/images/bullet_orange.gif);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/bullet_orange.gif);
 }
 
 /* LOGIN INFO */
@@ -3840,7 +3840,7 @@ P .entry-word {
 .form-box-magazine-archive-search .free-text LABEL {
   font-size: 13px;
   margin: 0 0 3px;
-  background: url(http://test.affarsvarlden.se/images/icon_premium.gif) no-repeat 0 0;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon_premium.gif) no-repeat 0 0;
   padding-left: 40px;
 }
 
@@ -3906,7 +3906,7 @@ P .entry-word {
 
 .opinion-teaser H2 A {
   color: #000;
-  background: url("http://test.affarsvarlden.se/images/quotes.png") no-repeat scroll 0 -313px;
+  background: url("http://static.www.affarsvarlden.se/ver02/images/quotes.png") no-repeat scroll 0 -313px;
   text-indent: 34px;
   display: block;
 }
@@ -3964,7 +3964,7 @@ P .entry-word {
 }
 
 .opinion-type-1 H2 A {
-  background-image: url(http://test.affarsvarlden.se/images/q_red.png);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/q_red.png);
   background-position: 2px 3px;
   overflow: hidden;
   line-height: 1;
@@ -3997,7 +3997,7 @@ P .entry-word {
 
 .column2  .opinion-teaser H2 A {
   color: #000;
-  background: url("http://test.affarsvarlden.se/images/quotes.png") no-repeat scroll 0 3px;
+  background: url("http://static.www.affarsvarlden.se/ver02/images/quotes.png") no-repeat scroll 0 3px;
   text-indent: 23px;
   display: block;
 }
@@ -4026,7 +4026,7 @@ P .entry-word {
 }
 
 .media-teaser DIV {
-  background: #444 url(http://test.affarsvarlden.se/images/bg_media.jpg) repeat-x 0 0;
+  background: #444 url(http://static.www.affarsvarlden.se/ver02/images/bg_media.jpg) repeat-x 0 0;
   padding: 0 10px 8px 10px;
   overflow: hidden;
   _height: 1%;
@@ -4093,7 +4093,7 @@ P .entry-word {
 
 .media-teaser .tabbed-box-tabs .tabbed-box-tabs-current,.media-teaser .tabbed-box-tabs .tabbed-box-tabs-current span,.media-teaser .tabbed-box-tabs .tabbed-box-tabs-current span:hover
   {
-  background-image: url(http://test.affarsvarlden.se/images/button_small_dark.gif);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/button_small_dark.gif);
   font-weight: normal;
   color: #fff;
 }
@@ -4145,7 +4145,7 @@ P .entry-word {
 }
 
 .image-media SPAN {
-  background: url(http://test.affarsvarlden.se/images/icon_play.png) 50% 50% no-repeat;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon_play.png) 50% 50% no-repeat;
 }
 
 /* TEASER */
@@ -4448,7 +4448,7 @@ P .entry-word {
   position: relative;
   top: -1px;
   padding: 0 3px 4px 3px;
-  background: #666666 url(http://test.affarsvarlden.se/images/comment.gif) no-repeat 50% 100%;
+  background: #666666 url(http://static.www.affarsvarlden.se/ver02/images/comment.gif) no-repeat 50% 100%;
   font-size: 9px;
   line-height: 1.9;
   color: white;
@@ -4568,7 +4568,7 @@ P .entry-word {
 
 /* TIP */
 .tip {
-  background: #eee url(http://test.affarsvarlden.se/images/icon_phone.gif) 12px 7px no-repeat;
+  background: #eee url(http://static.www.affarsvarlden.se/ver02/images/icon_phone.gif) 12px 7px no-repeat;
   padding: 7px 15px 9px 50px !important;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
@@ -4772,7 +4772,7 @@ P .entry-word {
 }
 
 .poll H2,.poll H3 {
-  background: url(http://test.affarsvarlden.se/images/icons.gif) 0 -430px no-repeat;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icons.gif) 0 -430px no-repeat;
   padding: 3px 25px;
   margin: 0 0 5px 0;
   min-height: 24px;
@@ -4903,7 +4903,7 @@ P .entry-word {
 
 .comment-teaser H2 A {
   color: white;
-  background: url(http://test.affarsvarlden.se/images/q_white.gif) 0px 1px no-repeat;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/q_white.gif) 0px 1px no-repeat;
   text-indent: 22px;
   display: block;
 }
@@ -4914,7 +4914,7 @@ P .entry-word {
 }
 
 .comment-teaser P {
-  background: white url(http://test.affarsvarlden.se/images/bg_commentTeaser.gif) no-repeat 30px 0px;
+  background: white url(http://static.www.affarsvarlden.se/ver02/images/bg_commentTeaser.gif) no-repeat 30px 0px;
   padding: 4px 0 0 65px;
 }
 
@@ -4978,7 +4978,7 @@ P .entry-word {
 .magazine-teaser UL A {
   margin: 0 0 1px 0;
   padding: 0 0 0 1.1em;
-  background: url(http://test.affarsvarlden.se/images/icons.gif) no-repeat 0 2px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icons.gif) no-repeat 0 2px;
   color: #0084FF;
   font-weight: bold;
 }
@@ -4989,7 +4989,7 @@ P .entry-word {
 }
 
 .magazine-teaser .target-login {
-  background: url("http://test.affarsvarlden.se/images/icons.gif") no-repeat scroll 0 -26px
+  background: url("http://static.www.affarsvarlden.se/ver02/images/icons.gif") no-repeat scroll 0 -26px
     transparent;
   margin: 0 0 1px;
   color: #333;
@@ -5171,7 +5171,7 @@ P .entry-word {
 }
 
 .tags LI a {
-  background: url("http://test.affarsvarlden.se/images/bg_tag.gif") repeat-x scroll left top #de1f1f;
+  background: url("http://static.www.affarsvarlden.se/ver02/images/bg_tag.gif") repeat-x scroll left top #de1f1f;
   color: white;
   float: left;
   line-height: 1;
@@ -5243,7 +5243,7 @@ P .entry-word {
   {
   padding: 0 0 0 11px;
   margin: 0 0 1px 0;
-  background: url(http://test.affarsvarlden.se/images/icons.gif) no-repeat 0 3px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icons.gif) no-repeat 0 3px;
   font-weight: bold;
   color: #0C96ED;
 }
@@ -5341,7 +5341,7 @@ P .entry-word {
 }
 
 .vevent .more {
-  background: transparent url(http://test.affarsvarlden.se/images/icons.gif) no-repeat 0 3px;
+  background: transparent url(http://static.www.affarsvarlden.se/ver02/images/icons.gif) no-repeat 0 3px;
   color: #0075E7;
   float: none;
   font-size: 13px;
@@ -5393,12 +5393,12 @@ P .entry-word {
 
 .search-heading LI.selected {
   padding: 0 3px 0 0;
-  background: url(http://test.affarsvarlden.se/images/button_small.gif) no-repeat top right;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/button_small.gif) no-repeat top right;
 }
 
 .search-heading LI.selected A {
   padding: 4px 3px 5px 5px;
-  background: url(http://test.affarsvarlden.se/images/button_small.gif) no-repeat top left;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/button_small.gif) no-repeat top left;
   color: white;
   font-weight: bold;
 }
@@ -5604,13 +5604,13 @@ P .entry-word {
 
 .media-grid LI .target-video SPAN {
   text-indent: 18px;
-  background-image: url(http://test.affarsvarlden.se/images/icon_video.png);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/icon_video.png);
   background-position: 1px 2px;
 }
 
 .media-grid LI .target-audio SPAN {
   text-indent: 16px;
-  background-image: url(http://test.affarsvarlden.se/images/icon_audio.gif);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/icon_audio.gif);
   background-position: 1px 0;
 }
 
@@ -5627,7 +5627,7 @@ P .entry-word {
   display: block;
   width: 15px;
   height: 15px;
-  background: url(http://test.affarsvarlden.se/images/icons.gif) no-repeat -104px -113px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icons.gif) no-repeat -104px -113px;
   text-indent: -9999px;
 }
 
@@ -5742,7 +5742,7 @@ P .entry-word {
   margin: 12px 0 0 0;
   padding: 12px 0 15px 0;
   border-top: 1px solid #ccc;
-  background: url(http://test.affarsvarlden.se/images/twitter_logo.gif) no-repeat bottom right;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/twitter_logo.gif) no-repeat bottom right;
 }
 
 .live-feeds H2 {
@@ -5776,28 +5776,28 @@ P .entry-word {
 }
 
 .target-audio {
-  background: url(http://test.affarsvarlden.se/images/icon_audio.gif) no-repeat 1px 0px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon_audio.gif) no-repeat 1px 0px;
   text-indent: 14px;
 }
 
 .target-video {
-  background: url(http://test.affarsvarlden.se/images/icon_video.gif) no-repeat 1px 3px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon_video.gif) no-repeat 1px 3px;
   text-indent: 15px;
 }
 
 .target-slideshow {
-  background: url(http://test.affarsvarlden.se/images/icon_slideshow.gif) no-repeat 1px 2px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/icon_slideshow.gif) no-repeat 1px 2px;
 }
 
 A.target-premium {
-  background: url("http://test.affarsvarlden.se/images/icons.gif") no-repeat 0 -302px;
+  background: url("http://static.www.affarsvarlden.se/ver02/images/icons.gif") no-repeat 0 -302px;
   padding: 4px 0 0 21px;
   text-indent: 0;
 }
 /*
     .target-premium {
     text-indent: 33px;
-    background: url(http://test.affarsvarlden.se/images/icon_premium.gif) no-repeat 0 1px;
+    background: url(http://static.www.affarsvarlden.se/ver02/images/icon_premium.gif) no-repeat 0 1px;
     }
     */
 
@@ -5988,7 +5988,7 @@ A.target-premium {
 
 #twingly .tw_item {
   margin: 0 0 5px 0;
-  background: url(http://test.affarsvarlden.se/images/list_item_bullet.gif) no-repeat 2px 5px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/list_item_bullet.gif) no-repeat 2px 5px;
   padding-left: 12px;
 }
 
@@ -6036,7 +6036,7 @@ A.target-premium {
   position: relative;
   margin: 0 0 10px 0;
   padding: 10px;
-  background: #fff url(http://test.affarsvarlden.se/images/footer_bg.png) repeat-x top right;
+  background: #fff url(http://static.www.affarsvarlden.se/ver02/images/footer_bg.png) repeat-x top right;
   color: #222;
   font-size: 12px;
   overflow: hidden;
@@ -6051,7 +6051,7 @@ A.target-premium {
 }
 
 #footer .general-links .content {
-  background: url(http://test.affarsvarlden.se/images/footer_border.gif) repeat-y 136px 100%;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/footer_border.gif) repeat-y 136px 100%;
   overflow: hidden;
 }
 
@@ -6138,7 +6138,7 @@ A.target-premium {
 }
 
 .page-opinions .columns-2-1 .column1 .opinion-type-2 {
-  background: url(http://test.affarsvarlden.se/images/quote.gif) 0px 10px no-repeat;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/quote.gif) 0px 10px no-repeat;
 }
 
 .page-opinions .section-heading {
@@ -6256,7 +6256,7 @@ pre.readable {
 }
 
 .stockNews .stocks {
-  background: #FFF url(http://test.affarsvarlden.se/images/tableDivider.gif) repeat-y 50% 0;
+  background: #FFF url(http://static.www.affarsvarlden.se/ver02/images/tableDivider.gif) repeat-y 50% 0;
   overflow: hidden;
 }
 
@@ -6327,7 +6327,7 @@ pre.readable {
 
 .stockNews tr.first td,.stockNews tr.first th {
   padding-top: 10px;
-  background: url(http://test.affarsvarlden.se/images/tableDivider2.gif) no-repeat 50% 4px;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/tableDivider2.gif) no-repeat 50% 4px;
 }
 
 .stockNews tr.first th:first-child {
@@ -6344,7 +6344,7 @@ pre.readable {
 }
 
 .stockNews .more {
-  background: url("http://test.affarsvarlden.se/images/icons.gif") no-repeat scroll 0 -272px
+  background: url("http://static.www.affarsvarlden.se/ver02/images/icons.gif") no-repeat scroll 0 -272px
     transparent;
   color: black;
   float: left;
@@ -6398,7 +6398,7 @@ pre.readable {
 
 /* TALENTUM GLOBAL NAVIGATION */
 #global-navigation {
-  background: #747476 url(http://test.affarsvarlden.se/images/bg_globalNavigation.png) repeat-x top
+  background: #747476 url(http://static.www.affarsvarlden.se/ver02/images/bg_globalNavigation.png) repeat-x top
     left;
   overflow: hidden;
   position: absolute;
@@ -6453,7 +6453,7 @@ pre.readable {
   text-indent: -9999px;
   width: 16px;
   height: 11px;
-  background-image: url(http://test.affarsvarlden.se/images/icon_flag_uk.gif);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/icon_flag_uk.gif);
   background-position: 10px 7px;
   background-repeat: no-repeat;
 }
@@ -6462,7 +6462,7 @@ pre.readable {
   text-indent: -9999px;
   width: 21px;
   height: 12px;
-  background-image: url(http://test.affarsvarlden.se/images/talentum_small_logo.gif);
+  background-image: url(http://static.www.affarsvarlden.se/ver02/images/talentum_small_logo.gif);
   background-position: 10px 4px;
   background-repeat: no-repeat;
 }
@@ -6583,14 +6583,14 @@ div#threads {
 /* KONSULTGUIDEN BOX:ES */
 .columns-3-1 .column1 .columns-2-1 .column2 .kg-search-teaser,.columns-1-1 .column1 .kg-search-teaser
   {
-  background: url(http://test.affarsvarlden.se/images/KG200-bg.gif) no-repeat;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/KG200-bg.gif) no-repeat;
   height: 180px;
   padding: 10px;
 }
 
 .columns-3-1 .column2 .kg-search-teaser,.columns-1-1 .column2 .kg-search-teaser
   {
-  background: url(http://test.affarsvarlden.se/images/KG250-bg.gif) no-repeat;
+  background: url(http://static.www.affarsvarlden.se/ver02/images/KG250-bg.gif) no-repeat;
   padding: 10px 20px;
   border-top: none;
   height: 140px;
@@ -6603,7 +6603,7 @@ div#threads {
     padding-bottom: 30px;
     border-radius: 5px;
     /* Minor design hack so that we can use the same image */
-    background: -webkit-linear-gradient(-75deg, #239898 50%, rgba(35,152,152,0) 75%), #239898 url(http://test.affarsvarlden.se/images/KG250-bg.gif) no-repeat bottom right;
+    background: -webkit-linear-gradient(-75deg, #239898 50%, rgba(35,152,152,0) 75%), #239898 url(http://static.www.affarsvarlden.se/ver02/images/KG250-bg.gif) no-repeat bottom right;
     box-shadow: inset 0 0 0 8px #239898;
   }
   .columns-3-1 .column2 .kg-search-teaser,.columns-1-1 .column2 .kg-search-teaser {
@@ -6694,12 +6694,12 @@ div#threads {
 }
 /* Bors Marknad */
 .bors-feature-teaser {
-  background: url("http://test.affarsvarlden.se/images/labels_gradient_font.gif") no-repeat scroll 0
+  background: url("http://static.www.affarsvarlden.se/ver02/images/labels_gradient_font.gif") no-repeat scroll 0
     100% #FFF5EF;
 }
 
 .bors-feature-teaser .content {
-  background: url("http://test.affarsvarlden.se/images/labels_gradient_font.gif") no-repeat scroll 0
+  background: url("http://static.www.affarsvarlden.se/ver02/images/labels_gradient_font.gif") no-repeat scroll 0
     0 transparent;
   border-bottom: 1px solid #000;
   font-size: 0.857143em;
@@ -6736,7 +6736,7 @@ div#threads {
 }
 
 .bors-feature-teaser .bors-teaser LI {
-  background: url("http://test.affarsvarlden.se/images/bullet-grey.gif") no-repeat scroll 0 3px
+  background: url("http://static.www.affarsvarlden.se/ver02/images/bullet-grey.gif") no-repeat scroll 0 3px
     transparent;
   padding-left: 13px;
   font-size: 1.25em;
@@ -6748,7 +6748,7 @@ div#threads {
 }
 
 .bors-teaser .sup-heading {
-  background: url("http://test.affarsvarlden.se/images/tools.gif") no-repeat scroll 0 -116px
+  background: url("http://static.www.affarsvarlden.se/ver02/images/tools.gif") no-repeat scroll 0 -116px
     transparent;
   display: block;
   min-height: 21px;
@@ -6756,7 +6756,7 @@ div#threads {
 }
 
 .bors-teaser.analys .sup-heading {
-  background: url("http://test.affarsvarlden.se/images/tools.gif") no-repeat scroll 0 -95px
+  background: url("http://static.www.affarsvarlden.se/ver02/images/tools.gif") no-repeat scroll 0 -95px
     transparent;
   display: block;
   min-height: 21px;
@@ -6791,7 +6791,7 @@ div#threads {
   font-size: 16px;
   line-height: 24px;
   background-color: #edebeb;
-  background-image: url('http://test.affarsvarlden.se/images/page-prenumerera-bg.png');
+  background-image: url('http://static.www.affarsvarlden.se/ver02/images/page-prenumerera-bg.png');
 }
 
 .page-prenumerera #page {
@@ -6839,7 +6839,7 @@ div#threads {
   margin: 0;
   padding: 0 10px;
   background-color: #484848;
-  background-image: url('http://test.affarsvarlden.se/images/page-prenumerera-bg-menu.png');
+  background-image: url('http://static.www.affarsvarlden.se/ver02/images/page-prenumerera-bg-menu.png');
   background-repeat: repeat;
   font-size: 14px;
   font-family: 'Lato', Arial, Helvetica, sans-serif;
@@ -7030,7 +7030,7 @@ div#threads {
   margin-bottom: 2px;
   padding: 1.276595744681% 1.063829787234%;
   width: 21.276595744681%; /* render as 200px */
-  background: white url('http://test.affarsvarlden.se/images/page-prenumerera-bg-white-box.png')
+  background: white url('http://static.www.affarsvarlden.se/ver02/images/page-prenumerera-bg-white-box.png')
     repeat-x 0 100%;
   text-align: center;
   -webkit-border-radius: 5px;
@@ -7154,14 +7154,14 @@ div#threads {
 }
 
 .page-prenumeration-compare td.yes {
-  background: #a6d49e url('http://test.affarsvarlden.se/images/page-prenumerera-icon-valid.png')
+  background: #a6d49e url('http://static.www.affarsvarlden.se/ver02/images/page-prenumerera-icon-valid.png')
     no-repeat 50% 50%;
   text-indent: -999px;
   overflow: hidden;
 }
 
 .page-prenumeration-compare td.no {
-  background: #edebeb url('http://test.affarsvarlden.se/images/page-prenumerera-icon-error.png')
+  background: #edebeb url('http://static.www.affarsvarlden.se/ver02/images/page-prenumerera-icon-error.png')
     no-repeat 50% 50%;
   text-indent: -999px;
   overflow: hidden;
@@ -7266,7 +7266,7 @@ div#threads {
   height: 100%;
   width: 100%;
   z-index: 9000;
-  background: url('http://test.affarsvarlden.se/images/bg_overlay.png');
+  background: url('http://static.www.affarsvarlden.se/ver02/images/bg_overlay.png');
 }
 
 #authenticatorPopup {
@@ -7393,20 +7393,20 @@ div#threads {
   height: 24px;
   width: 24px;
   overflow: hidden;
-  background: url('http://test.affarsvarlden.se/images/page-prenumerera-icon-login.png') no-repeat 0
+  background: url('http://static.www.affarsvarlden.se/ver02/images/page-prenumerera-icon-login.png') no-repeat 0
     0;
   text-indent: -999px;
 }
 
 .page-prenumerera.page-login .form-box-login label[for='simple-user-password'],.page-prenumerera.page-login .form-box-login label[for='simple-user-password-confirm']
   {
-  background: url('http://test.affarsvarlden.se/images/page-prenumerera-icon-login.png') no-repeat 0
+  background: url('http://static.www.affarsvarlden.se/ver02/images/page-prenumerera-icon-login.png') no-repeat 0
     -66px;
 }
 
 .page-prenumerera.page-login .form-box-login #simple-user-name,.page-prenumerera.page-login .form-box-login #simple-user-password,.page-prenumerera.page-login .form-box-login #simple-user-password-confirm
   {
-  background: white url('http://test.affarsvarlden.se/images/page-prenumerera-icon-login.png')
+  background: white url('http://static.www.affarsvarlden.se/ver02/images/page-prenumerera-icon-login.png')
     no-repeat -9999px -9999px;
   border: 1px solid #ccc;
   padding: 14px 136px 14px 44px;
@@ -7549,7 +7549,7 @@ div#threads {
   z-index: 9020;
   overflow: hidden;
   text-indent: -999px;
-  background: url('http://test.affarsvarlden.se/images/page-prenumerera-icon-close.png') no-repeat
+  background: url('http://static.www.affarsvarlden.se/ver02/images/page-prenumerera-icon-close.png') no-repeat
     50% 50%;
 }
 
@@ -7574,7 +7574,7 @@ div#threads {
     -------------------------------------------------------------- */
 .page-prenumerera #footer .general-links {
   padding: 0;
-  background: url('http://test.affarsvarlden.se/images/prenumerera_footer_bg.png') no-repeat 100% 0;
+  background: url('http://static.www.affarsvarlden.se/ver02/images/prenumerera_footer_bg.png') no-repeat 100% 0;
   line-height: 1.5;
 }
 
