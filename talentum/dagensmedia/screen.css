@@ -6685,7 +6685,7 @@ A.target-premium {
 }
 
 #twingly .tw_rss_link:before {
-    content: "pÃ¥";
+    content: "på";
 }
 
 #twingly .tw_item EM {
@@ -7056,7 +7056,7 @@ div.article div.twitterwidget {
     z-index: 1500;
 }
 
-/* BÃ–RS */
+/* BÖRS */
 .stockNews {
     border-top: 1px solid #CCCCCC;
     margin: 11px 0 0;
@@ -7363,7 +7363,7 @@ div#threads {
     z-index: 1000;
 }
 
-/* FLER NYHETER LÃ„NGST NER PÃ… LÃ–PET*/
+/* FLER NYHETER LÄNGST NER PÅ LÖPET*/
 .start .inline-link-list H2 {
     font-size: 18px;
 }

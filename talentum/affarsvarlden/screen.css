@@ -307,7 +307,7 @@ INPUT.submit:hover {
 }
 
 /*
-    * AffÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬ ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤rsvÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬ ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤rlden CSS
+    * AffÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤rsvÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤rlden CSS
     * Copyright (c) Dagens Media / Talentum
     */
 
@@ -1212,7 +1212,7 @@ background: url(../images/bg_topTeasers.png) repeat-x 0 0;
   margin: 10px 0;
   overflow: visible;
   padding: 0;
-  /* Kolla IE om nedan behÃ¶vs*/
+  /* Kolla IE om nedan behövs*/
   width: 964px;
 }
 
@@ -5999,7 +5999,7 @@ A.target-premium {
 }
 
 #twingly .tw_rss_link:before {
-  content: "pÃ¥";
+  content: "på";
 }
 
 #twingly .tw_item EM {
@@ -6221,7 +6221,7 @@ div.article div.twitterwidget {
   float: right;
 }
 
-/* PRE STYLING FÃ–R DIREKT NYHETER */
+/* PRE STYLING FÖR DIREKT NYHETER */
 pre.readable {
   font-family: monospace;
   font-size: 13px;
@@ -6247,7 +6247,7 @@ pre.readable {
   word-wrap: break-word;
 }
 
-/* Vinnare och fÃ¶rlorare */
+/* Vinnare och förlorare */
 .stockNews {
   margin: 10px 0 10px 0;
   padding: 4px;
@@ -6354,7 +6354,7 @@ pre.readable {
   padding: 1px 0 1px 20px;
 }
 
-/* Nyheter frÃ¥n Talentum siter */
+/* Nyheter från Talentum siter */
 .external-teaser-vignette {
   margin: 0px;
 }

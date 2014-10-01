@@ -922,10 +922,10 @@ border: none;
        -webkit-transition: .15s ease-in-out;
  }
  #menus > ul > li > .nav-toggle:before {
-   content: "â–¶";
+   content: "▶";
  }
  #menus > ul > li[data-open="open"] > .nav-toggle {
- /* content: "â–¼ "; */
+ /* content: "▼ "; */
          -webkit-transform: rotate(90deg);
 
  }

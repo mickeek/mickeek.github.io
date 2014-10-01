@@ -2503,7 +2503,7 @@ TH P {
 }
 
 #twingly .tw_rss_link:before {
-   content: "pÃƒÆ’Ã‚Â¥";
+   content: "på";
 }
 
 #twingly .tw_item EM {
@@ -6437,7 +6437,7 @@ IFRAME {
    margin-top: 15px;
 }
 
-/* Nyheter frÃƒÆ’Ã‚Â¥n Talentum siter */
+/* Nyheter från Talentum siter */
 
 .external-teaser-vignette {
    margin: 0px;
@@ -7523,7 +7523,7 @@ border: none;
   border: 6px solid #eaeaea !important;    
 }
 
-/* IngenjÃ¶rsguide-listning pÃ¥ page-lediga-jobb */
+/* Ingenjörsguide-listning på page-lediga-jobb */
 .page-lediga-jobb .igGuideListing {
     background: #fef7e8;
     padding: 10px;
@@ -7537,18 +7537,3 @@ border: none;
 .page-lediga-jobb .igGuideListing li a {
     color: #00a4ba ;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
