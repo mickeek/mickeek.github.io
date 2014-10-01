@@ -189,7 +189,7 @@ body.resp #header .tools{
    top: 0px;
    width: 672px;
    height: 126px;
-   background: url(../images/bg_topTeasers.png) repeat-x 0 0;
+   background: url(http://test.nyteknik.se/images/bg_topTeasers.png) repeat-x 0 0;
  }
 }
 
@@ -261,7 +261,7 @@ body.resp #header .tools{
  .articleCommentInfo {
    padding: 7px;
    margin: 11px 0 15px;
-   background: url("../images/icon_info.png") no-repeat scroll 2px 2px
+   background: url("http://test.nyteknik.se/images/icon_info.png") no-repeat scroll 2px 2px
      #E5EFFF;
  }
  div.columns-3-1.first {
@@ -1291,7 +1291,7 @@ border: none;
        font-size: 16px;
  }
  .comment {
-   background: #eee url(../images/bg_comment.gif) no-repeat scroll bottom
+   background: #eee url(http://test.nyteknik.se/images/bg_comment.gif) no-repeat scroll bottom
      left;
    margin: 0 0 17px 0;
    padding: 0 0 70px;
@@ -1804,7 +1804,7 @@ width: inherit;
  top: 100px !important;
  width: 63%;
  height: 125px;
- background: url(../images/bg_topTeasers.png) repeat-x 0 0;
+ background: url(http://test.nyteknik.se/images/bg_topTeasers.png) repeat-x 0 0;
  }
 
  #header {

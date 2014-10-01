@@ -1,0 +1,26 @@
+[
+	{
+		"path": "affarsvarlden/css/screen.css",
+		"absPath": "http://test.affarsvarlden.se"
+	},
+	{
+		"path": "affarsvarlden/css/mediaqueries.css",
+		"absPath": "http://test.affarsvarlden.se"
+	},
+	{
+		"path": "dagensmedia/css/screen.css",
+		"absPath": "http://test.dagensmedia.se"
+	},
+	{
+		"path": "dagensmedia/css/mediaqueries.css",
+		"absPath": "http://test.dagensmedia.se"
+	},
+	{
+		"path": "nyteknik/css/screen.css",
+		"absPath": "http://test.nyteknik.se"
+	},
+	{
+		"path": "nyteknik/css/mediaqueries.css",
+		"absPath": "http://test.nyteknik.se"
+	}
+]
