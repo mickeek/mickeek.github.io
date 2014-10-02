@@ -7555,3 +7555,20 @@ border: none;
 /**
  * Carousel Box Temporary style
  */
+.carousel-box {
+   background: #f7f7f7;
+   padding: 10px;
+}
+.carousel-box .box-body {
+   overflow: hidden;
+}
+.carousel-box .carousel-box-part {
+   width: 217px;
+   float: left;
+}
+.carousel-box .carousel-box-part img {
+   background: #fff;
+   border: 1px #e1e1e1 solid;
+   padding: 10px;
+   border-radius: 3px;
+}
