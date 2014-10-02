@@ -1536,12 +1536,26 @@ UL.page-menu-separated {
    list-style-type: none;
 }
 
+.page-menu LI.selected {
+    background: url(http://static.www.dagensmedia.se/ver02/images/button_small.gif) no-repeat top right;
+    padding: 0 3px 0 0;
+}
+
+.page-menu LI.selected A {
+    background: url(http://static.www.dagensmedia.se/ver02/images/button_small.gif) no-repeat top left;
+    color: white;
+    padding-left: 5px;
+}
+
 .page-menu-condensed LI {
    margin-right: 6px;
 }
 
 .page-menu A {
    float: left;
+   font-weight: bold;
+   color: #333;
+   padding: 3px;
 }
 
 .page-menu .selected A {
@@ -5387,7 +5401,7 @@ Gamla jobb slut*/
         margin: 0 0 0 0;
         padding: 0;
         border-bottom: none;
-        
+
     }
 }
 
@@ -5776,7 +5790,7 @@ Gamla jobb slut*/
    width: 100%;
    height: auto;
    /*height: 110px;*/
-   
+
 }
 
 .job-search #region {
@@ -5848,7 +5862,7 @@ Gamla jobb slut*/
 @media screen and (min-device-width:320px) and (max-device-width:767px) {
     body.resp #footer .general-links {
         background: #fff url(http://static.www.nyteknik.se/ver02/images/logo_nyteknik.gif) no-repeat top left;
-    
+
         background-size: 50% auto;
         padding-top: 70px;
     }
@@ -6956,7 +6970,7 @@ menu-toggle {
 
    body.resp .container #header #logo {
      margin-top: 5px;
-     left: 50px;      
+     left: 50px;
    }
 
    /*
@@ -7122,19 +7136,19 @@ menu-toggle {
    body.resp div.type-externalBox {
        margin-left: 10px;
    }
-   
+
    body.resp #header .payoff {
      top: 0px;
      margin-top: 80px;
    }
-   
+
    body.resp .top-bar label{
      color: #e53426;
      top: 36px;
      font-size: 40px;
      left: 5px;
-   
-   }    
+
+   }
 }
 
 @media screen and (min-device-width: 200px) and (max-device-width: 479px) {
@@ -7143,7 +7157,7 @@ menu-toggle {
    }
    body.resp #content .type-default div.default-teaser h2 a {
     color: #222;
-   }   
+   }
 }
 
 /* JOB SEARCH */
@@ -7214,7 +7228,7 @@ body.resp .type-jobAdExtendedSearchOccupation form #search-mode-submit {
     float: none;
 }
 body.resp .type-jobAdExtendedSearchOccupation form fieldset select {
-    top: 0;  
+    top: 0;
 }
 
 }
@@ -7289,7 +7303,7 @@ font-weight: bold;
 
 /* Link list and ad on mobile */
 @media screen and (min-device-width: 200px) and (max-device-width: 767px) {
-body.resp .type-jobAdExtendedSearchOccupation .linklist {  
+body.resp .type-jobAdExtendedSearchOccupation .linklist {
     float: none;
     width: auto;
 }
@@ -7520,7 +7534,7 @@ border: none;
 }
 
 .columns-3-1 .column1 .columns-2-1 .column1 .type-latestnewswithtoplists .box {
-  border: 6px solid #eaeaea !important;    
+  border: 6px solid #eaeaea !important;
 }
 
 /* Ingenjörsguide-listning på page-lediga-jobb */
