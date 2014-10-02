@@ -2981,6 +2981,67 @@ P .entry-word {
    width: 172px;
 }
 
+/* CAROUSEL BOX */
+.carousel-box {
+    position: relative;
+}
+
+.carousel-box-part {
+    border-top: 1px solid #ccc;
+}
+
+.javascript .carousel-box-part {
+    display: none;
+}
+
+.next-carousel-part, .previous-carousel-part {
+    width: 15px;
+    height: 16px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    background: url(http://static.www.dagensmedia.se/ver02/images/icons.gif) 0 -112px no-repeat;
+}
+
+.previous-carousel-part {
+    background-position: -24px -112px;
+    right: 28px;
+}
+
+.next-carousel-part:hover {
+    background-position: -49px -112px;
+}
+
+.previous-carousel-part:hover {
+    background-position: -74px -112px;
+}
+
+.carousel-box-part H3 {
+    border: 0 !important;
+    font-size: 18px;
+    line-height: 1.1;
+}
+
+.carousel-box-part H3 A {
+    color: #333;
+}
+
+.carousel-box-part H3 A:hover {
+    color: #0084FF;
+    text-decoration: none;
+}
+
+.carousel-box-part IMG {
+    float: left;
+    margin: 8px 8px 0 0 !important;
+}
+
+.carousel-box .box-body .more {
+    font-weight: bold;
+    color: #ff7d00;
+}
+
 /* BOX */
 .box {
    margin: 12px 0 0 0;
