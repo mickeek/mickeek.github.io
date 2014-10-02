@@ -7567,6 +7567,9 @@ border: none;
    width: 217px;
    float: left;
 }
+.carousel-box .carousel-box-part:last-child {
+   margin-right: 0;
+}
 .carousel-box .carousel-box-part a {
    font-weight: bold;
 }
