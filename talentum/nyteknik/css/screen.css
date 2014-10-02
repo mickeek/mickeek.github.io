@@ -1565,7 +1565,7 @@ ul.page-menu-separated {
 
 .page-menu .selected a:hover,
 .page-menu .selected a:focus {
-   text-decoration: none;
+   text-decoration: underline;
 }
 
 .page-menu-dates LI {
