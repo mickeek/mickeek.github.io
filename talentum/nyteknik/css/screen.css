@@ -7563,12 +7563,19 @@ border: none;
    overflow: hidden;
 }
 .carousel-box .carousel-box-part {
+   margin-right: 10px;
    width: 217px;
    float: left;
+}
+.carousel-box .carousel-box-part a {
+   font-weight: bold;
 }
 .carousel-box .carousel-box-part img {
    background: #fff;
    border: 1px #e1e1e1 solid;
    padding: 10px;
    border-radius: 3px;
+
+   width: 100%;
+   box-sizing: border-box;
 }
