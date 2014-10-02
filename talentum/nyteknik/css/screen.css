@@ -1541,7 +1541,7 @@ ul.page-menu-separated {
     padding: 0 3px 0 0;
 }
 
-.page-menu li.selected A {
+.page-menu li.selected a {
     background: url(http://static.www.nyteknik.se/ver02/images/button_small.gif) no-repeat top left;
     color: white;
     padding-left: 5px;
@@ -1558,10 +1558,14 @@ ul.page-menu-separated {
    padding: 3px;
 }
 
+.page-menu a:hover {
+   color: #028ec0;
+   text-decoration: none;
+}
+
 .page-menu .selected a:hover,
 .page-menu .selected a:focus {
    text-decoration: none;
-   color: #028ec0;
 }
 
 .page-menu-dates LI {
