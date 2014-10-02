@@ -1518,31 +1518,31 @@ display:none !important;
 }
 
 /* PAGE MENU */
-UL.page-menu {
+ul.page-menu {
    margin: 0;
    padding: 0;
    overflow: hidden;
 }
 
-UL.page-menu-separated {
+ul.page-menu-separated {
    padding-bottom: 13px;
    border-bottom: 1px solid #ccc;
    margin-bottom: 11px;
 }
 
-.page-menu LI {
+.page-menu li {
    float: left;
    margin: 0 12px 0 0;
    list-style-type: none;
 }
 
-.page-menu LI.selected {
-    background: url(http://static.www.dagensmedia.se/ver02/images/button_small.gif) no-repeat top right;
+.page-menu li.selected {
+    background: url(http://static.www.nyteknik.se/ver02/images/button_small.gif) no-repeat top right;
     padding: 0 3px 0 0;
 }
 
-.page-menu LI.selected A {
-    background: url(http://static.www.dagensmedia.se/ver02/images/button_small.gif) no-repeat top left;
+.page-menu li.selected A {
+    background: url(http://static.www.nyteknik.se/ver02/images/button_small.gif) no-repeat top left;
     color: white;
     padding-left: 5px;
 }
@@ -1551,22 +1551,17 @@ UL.page-menu-separated {
    margin-right: 6px;
 }
 
-.page-menu A {
+.page-menu a {
    float: left;
    font-weight: bold;
    color: #333;
    padding: 3px;
 }
 
-.page-menu .selected A {
-   border-bottom: 2px solid black;
-   color: black;
-   font-weight: bold;
-}
-
-.page-menu .selected A:hover,
-.page-menu .selected A:focus {
+.page-menu .selected a:hover,
+.page-menu .selected a:focus {
    text-decoration: none;
+   color: #028ec0;
 }
 
 .page-menu-dates LI {
