@@ -29,7 +29,7 @@
           <h4>To remove a remote branch (if you know what you are doing!)</h4>
           <code>git push origin :the_remote_branch</code>
         </li>
-        <li>
+        <li class="list-group-item">
           <h3>Git: Delete all merged branches</h3>
           <code>git branch --merged | grep -v "\*" | grep -v master | grep -v dev | xargs -n 1 git branch -d</code>
         </li>
