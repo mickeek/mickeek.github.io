@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+  <style>
+    #div {
+  z-index: 1;
+}
+
+#div-text{
+    position:relative;
+    left:210px;
+    top:20px
+}
+
+#shouldBeOnTop{
+    position:relative;
+    right:60px;
+    background-color:red;
+    width:100px;
+    z-index:2;
+}
+
+#div-frame{
+    position:relative;
+     z-index:1;
+}
+  </style>
+</head>
+<body>
+  <div id="div-text">
+      <div id="shouldBeOnTop">my text that should be on top</div>
+</div>
+<div id="div-frame">
+    <iframe src="http://legallo1.free.fr/french/CV_JLG.pdf" width="200" height="200"/>
+</div>
+</body>
+</html>
