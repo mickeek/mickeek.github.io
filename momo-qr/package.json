@@ -2,6 +2,7 @@
   "name": "momo-qr",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://mickeek.github.io/momo-qr",
   "dependencies": {
     "antd": "^3.7.3",
     "axios": "^0.18.0",

@@ -1,19 +1,9 @@
 import React from "react";
 import { withFormik } from "formik";
-import axios from "axios";
 import { Form, Icon, Input, Button, Select, Tooltip } from "antd";
-
-import { api } from "../package.json";
 
 const FormItem = Form.Item;
 const Option = Select.Option;
-
-const selectAfter = (
-  <Select defaultValue="@1xinternet.de">
-    <Option value="@1xinternet.de">@1xinternet.de</Option>
-    <Option value="@1x.rocks">@1x.rocks</Option>
-  </Select>
-);
 
 const TextInput = ({
   values,
@@ -49,12 +39,10 @@ const TextInput = ({
 
 export const InputForm = withFormik({
   mapPropsToValues: () => ({
-    username: "m.ek",
-    password: "zt+Efnraw69BdHyniBr7",
-    token: "rRyq2ywwT95XYgml6xnS"
-    // username: "",
-    // password: "",
-    // token: ""
+    username: "",
+    password: "",
+    token: "",
+    postfix: "@1xinternet.de"
   }),
   handleSubmit: async (values, { props, setSubmitting, setErrors }) => {
     props.formInputComplete(values);
@@ -63,6 +51,11 @@ export const InputForm = withFormik({
     const errors = {};
     if (!values.username) {
       errors.username = "Required";
+    } else if (
+      /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i.test(values.username)
+    ) {
+      errors.username =
+        "Invalid username (note that username should not contain @";
     }
 
     if (!values.password) {
@@ -77,14 +70,22 @@ export const InputForm = withFormik({
   }
 })(form => {
   return (
-    <Form onSubmit={form.handleSubmit} horizontal>
+    <Form onSubmit={form.handleSubmit}>
       <TextInput
         {...form}
         name="username"
         type="text"
         placeholder="Jira Username"
         prefix={<Icon type="user" style={{ color: "rgba(0,0,0,.25)" }} />}
-        addonAfter={selectAfter}
+        addonAfter={
+          <Select
+            defaultValue="@1xinternet.de"
+            onChange={value => form.setFieldValue("postfix", value)}
+          >
+            <Option value="@1xinternet.de">@1xinternet.de</Option>
+            <Option value="@1x.rocks">@1x.rocks</Option>
+          </Select>
+        }
         label="Your Jira account username"
       />
       <TextInput

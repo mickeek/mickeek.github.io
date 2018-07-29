@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import QRCode from "qrcode.react";
 import { Layout, Row, Col, Modal, Button } from "antd";
 
-import logo from "./logo.svg";
 import "./App.css";
 import "antd/dist/antd.css";
 import { InputForm } from "./InputForm";
@@ -15,9 +14,17 @@ class App extends Component {
     modalVisible: false
   };
 
-  formInputComplete = values => {
+  formInputComplete = ({ username, password, token, postfix }) => {
+    const user = {
+      username: username + postfix,
+      password,
+      token
+    };
+
+    console.log(user);
+
     this.setState({
-      qrCodeValue: JSON.stringify(values),
+      qrCodeValue: JSON.stringify(user),
       modalVisible: true
     });
   };
